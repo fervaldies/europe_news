@@ -74,7 +74,7 @@ def fetch_europe_news():
     params = urllib.parse.urlencode({
         "q":      "Europe",
         "lang":   "en",
-        "max":    "10",
+        "max":    "25",
         "apikey": GNEWS_API_KEY
     })
     url = f"https://gnews.io/api/v4/search?{params}"
@@ -111,25 +111,28 @@ def pick_best_5(headlines):
         "role": "user",
         "content": (
             "You are a European news editor. From the list below, pick the 5 most "
-            "important stories specifically about Europe or European countries. "
-            "Prioritise variety of topics and countries. "
+            "important stories specifically about Europe or European countries.\n\n"
+            "AVOID headlines that:\n"
+            "- Are vague or could apply to any day (e.g. 'Group tackles issues head-on')\n"
+            "- Mention no specific person, country, company, or place\n"
+            "- Are about local/regional sport lineups or minor celebrity news\n"
+            "- Read like opinion or feature teasers rather than hard news\n\n"
+            "PREFER headlines that name a specific European country, leader, company, "
+            "or concrete event. Prioritise variety of topics and countries.\n\n"
             "Return ONLY raw JSON, no markdown, no backticks:\n"
             '{"selected_indexes": [0, 1, 2, 3, 4]}\n\n'
             f"Indexes are 0-based. Stories:\n\n{numbered}"
         )
     }], max_tokens=100)
-
     text    = extract_json(text)
     indexes = json.loads(text)["selected_indexes"]
     selected = [headlines[i] for i in indexes if i < len(headlines)]
-
     if len(selected) < 5:
         for h in headlines:
             if h not in selected:
                 selected.append(h)
             if len(selected) == 5:
                 break
-
     return [{"title": t} for t in selected[:5]]
 
 
