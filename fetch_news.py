@@ -125,40 +125,99 @@ def github_models_call(messages, max_tokens=600):
         return claude_call(messages, max_tokens)
 
 
+EUROPE_TOPIC_POOL = [
+    "European Union",
+    "European Commission",
+    "European Parliament",
+    "eurozone economy",
+    "Germany",
+    "France",
+    "Spain",
+    "Italy",
+    "United Kingdom",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Greece",
+    "Sweden OR Norway OR Denmark OR Finland",
+    "Austria OR Switzerland",
+    "Belgium",
+    "Ireland",
+    "Ukraine war",
+    "NATO Europe",
+    "Europe energy",
+    "Europe migration",
+    "Europe climate OR heatwave",
+    "European elections",
+    "Europe technology",
+]
+
+
 def fetch_europe_news():
-    """Fetch headlines specifically about Europe using GNews search endpoint."""
+    """
+    Fetch Europe headlines using several GNews searches: always the general
+    'Europe' query, plus 2 random topics from the pool. The free GNews tier caps
+    each request at 10 articles, so variety comes from multiple queries.
+    """
+    import random
+
     if not GNEWS_API_KEY:
         raise ValueError("GNEWS_API_KEY is not set")
 
-    params = urllib.parse.urlencode({
-        "q":      "Europe",
-        "lang":   "en",
-        "max":    "25",
-        "apikey": GNEWS_API_KEY
-    })
-    url = f"https://gnews.io/api/v4/search?{params}"
-
-    print("📰 Fetching Europe news from GNews search API...")
-    with urllib.request.urlopen(url, timeout=15) as r:
-        data = json.loads(r.read().decode("utf-8"))
-
-    articles = data.get("articles", [])
-    print(f"  GNews returned {len(articles)} articles")
-
-    if len(articles) < 5:
-        raise ValueError(f"GNews returned only {len(articles)} articles — need at least 5")
+    queries = ["Europe"] + random.sample(EUROPE_TOPIC_POOL, 2)
+    print(f"🎲 Today's topics: {queries}")
 
     headlines = []
     seen = set()
-    for article in articles:
-        title = clean_title(article.get("title", ""))
-        if title and len(title) > 10 and title not in seen:
-            seen.add(title)
-            headlines.append(title)
+
+    for i, q in enumerate(queries):
+        if i > 0:
+            time.sleep(2)  # avoid tripping GNews's short-window rate limit
+
+        params = urllib.parse.urlencode({
+            "q":      q,
+            "lang":   "en",
+            "max":    "10",
+            "apikey": GNEWS_API_KEY
+        })
+        url = f"https://gnews.io/api/v4/search?{params}"
+
+        print(f"📰 Fetching news for query: {q!r}...")
+        data = None
+        for attempt in range(3):
+            try:
+                with urllib.request.urlopen(url, timeout=15) as r:
+                    data = json.loads(r.read().decode("utf-8"))
+                break
+            except urllib.error.HTTPError as e:
+                if e.code == 429 and attempt < 2:
+                    wait = 5 * (attempt + 1)
+                    print(f"  ⏳ Rate limited, retrying in {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"  ⚠️ Query {q!r} failed: {e}")
+                    break
+            except Exception as e:
+                print(f"  ⚠️ Query {q!r} failed: {e}")
+                break
+
+        if data is None:
+            continue
+
+        articles = data.get("articles", [])
+        added = 0
+        for article in articles:
+            title = clean_title(article.get("title", ""))
+            if title and len(title) > 10 and title not in seen:
+                seen.add(title)
+                headlines.append(title)
+                added += 1
+        print(f"  → {len(articles)} articles, {added} new unique headlines")
 
     if len(headlines) < 5:
-        raise ValueError(f"Only {len(headlines)} valid headlines after cleaning")
+        raise ValueError(f"Only {len(headlines)} valid headlines after merging — need at least 5")
 
+    print(f"✅ Total unique headlines collected: {len(headlines)}")
     return headlines
 
 
