@@ -1,8 +1,58 @@
 date: 2026-11-10
 day: Tuesday
 news:
-  - title: "Kelatahan politik AS dorong investor ke Eropa, kata bos EIB Nadia Calvino"
-  - title: "Setidaknya 39 orang tewas dan sejumlah lainnya hilang setelah kapal migran tujuan Eropa tenggelam di lepas pantai Senegal"
-  - title: "Uni Eropa bawa IBM, Atos, dan Leonardo ke pengadilan terkait sengketa teknologi perbatasan senilai 212 juta euro"
-  - title: "India dan Uni Eropa finalisasi kesepakatan akses program riset Horizon Europe"
-  - title: "Adani Ports ambil alih Evos Eropa senilai 2,56 miliar euro untuk memperluas jangkauan globalnya"
+- title: Rusia dan Ukraina Bersiap Gelar Perundingan Damai yang Didukung AS
+  why: ''
+  source: The Globe and Mail
+  url: https://www.theglobeandmail.com/world/article-russia-ukraine-war-peace-talks-2/
+  cat: CONFLICT
+  good: false
+  visual:
+    type: icon
+- title: Amundi Bawa Saham Eropa ke Ethereum dengan Ketentuan Akses Masih Dirahasiakan
+  why: ''
+  source: CryptoSlate
+  url: https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/
+  cat: BUSINESS
+  good: false
+  visual:
+    type: icon
+- title: Pusat Data Eropa Hadapi Protes Seiring Ekspansi AI Sentuh Politik AS
+  why: Ekspansi AI berdampak langsung pada sumber daya lokal dan jaringan listrik.
+  source: Natural News
+  url: https://www.naturalnews.com/2026-11-09-data-centers-europe-face-protests-ai-growth.html
+  cat: TECH
+  good: false
+  visual:
+    type: map
+    country: United States of America
+    place: Amerika Serikat
+    lat: 38.8951
+    lon: -77.0364
+    span: 25
+- title: Anggota Parlemen Eropa Desak Belgia Evakuasi Pemegang Visa Gaza di Tengah Banjir Musim Dingin yang Parah
+  why: Keputusan kebijakan internasional memengaruhi respons krisis kemanusiaan regional.
+  source: EUobserver
+  url: https://euobserver.com/247914/meps-demand-belgium-evacuate-visa-holders-from-gaza-as-winter-flooding-makes-life-catastrophic/
+  cat: WORLD
+  good: false
+  visual:
+    type: map
+    country: Belgium
+    place: Belgia
+    lat: 50.8503
+    lon: 4.3517
+    span: 5
+- title: Arti Kebuntuan Anggaran Belgia bagi Negara Tersebut
+  why: ''
+  source: EUobserver
+  url: https://euobserver.com/247741/listen-what-does-belgiums-budget-deadlock-mean-for-the-country/
+  cat: ECONOMY
+  good: false
+  visual:
+    type: map
+    country: Belgium
+    place: Belgia
+    lat: 50.8503
+    lon: 4.3517
+    span: 5

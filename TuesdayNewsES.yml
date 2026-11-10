@@ -1,8 +1,58 @@
 date: 2026-11-10
 day: Tuesday
 news:
-  - title: "La agitación política de EE. UU. está impulsando a los inversores hacia Europa, según la jefa del BEI, Nadia Calviño"
-  - title: "Al menos 39 muertos y varios desaparecidos tras el naufragio frente a Senegal de una embarcación de migrantes con destino a Europa"
-  - title: "La UE lleva a los tribunales a IBM, Atos y Leonardo por un litigio de tecnología fronteriza de 212 millones de euros"
-  - title: "India y la UE cierran un acuerdo para acceder al programa de investigación Horizonte Europa"
-  - title: "Adani Ports adquiere la europea Evos por 2.560 millones de euros para ampliar su presencia global"
+- title: Rusia y Ucrania se preparan para unas conversaciones de paz respaldadas por EE. UU.
+  why: ''
+  source: The Globe and Mail
+  url: https://www.theglobeandmail.com/world/article-russia-ukraine-war-peace-talks-2/
+  cat: CONFLICT
+  good: false
+  visual:
+    type: icon
+- title: Amundi lleva la bolsa europea a Ethereum con las condiciones de acceso aún por desvelar
+  why: ''
+  source: CryptoSlate
+  url: https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/
+  cat: BUSINESS
+  good: false
+  visual:
+    type: icon
+- title: Los centros de datos europeos se enfrentan a protestas a medida que la expansión de la IA llega a la política estadounidense
+  why: La expansión de la IA impacta directamente en los recursos locales y las redes eléctricas.
+  source: Natural News
+  url: https://www.naturalnews.com/2026-11-09-data-centers-europe-face-protests-ai-growth.html
+  cat: TECH
+  good: false
+  visual:
+    type: map
+    country: United States of America
+    place: Estados Unidos
+    lat: 38.8951
+    lon: -77.0364
+    span: 25
+- title: Los eurodiputados instan a Bélgica a evacuar a los titulares de visados de Gaza en medio de inundaciones invernales catastróficas
+  why: Las decisiones de política internacional afectan las respuestas a las crisis humanitarias regionales.
+  source: EUobserver
+  url: https://euobserver.com/247914/meps-demand-belgium-evacuate-visa-holders-from-gaza-as-winter-flooding-makes-life-catastrophic/
+  cat: WORLD
+  good: false
+  visual:
+    type: map
+    country: Belgium
+    place: Bélgica
+    lat: 50.8503
+    lon: 4.3517
+    span: 5
+- title: Qué significa el bloqueo presupuestario de Bélgica para el país
+  why: ''
+  source: EUobserver
+  url: https://euobserver.com/247741/listen-what-does-belgiums-budget-deadlock-mean-for-the-country/
+  cat: ECONOMY
+  good: false
+  visual:
+    type: map
+    country: Belgium
+    place: Bélgica
+    lat: 50.8503
+    lon: 4.3517
+    span: 5

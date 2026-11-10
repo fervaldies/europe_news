@@ -1,8 +1,58 @@
 date: 2026-11-10
 day: Tuesday
 news:
-  - title: "Turbulência política nos EUA atrai investidores para a Europa, diz chefe do BEI Nadia Calvino"
-  - title: "Ao menos 39 mortos e vários desaparecidos após naufrágio de barco com migrantes rumo à Europa na costa do Senegal"
-  - title: "UE processa IBM, Atos e Leonardo em disputa de tecnologia de fronteira de € 212 milhões"
-  - title: "Índia e UE fecham acordo para acesso ao programa de pesquisa Horizon Europe"
-  - title: "Adani Ports adquire a europeia Evos por € 2,56 bilhões para expandir alcance global"
+- title: Turbulência política nos EUA atrai investidores para a Europa, diz chefe do BEI Nadia Calvino
+  why: ''
+  source: The Globe and Mail
+  url: https://www.theglobeandmail.com/world/article-russia-ukraine-war-peace-talks-2/
+  cat: CONFLICT
+  good: false
+  visual:
+    type: icon
+- title: Ao menos 39 mortos e vários desaparecidos após naufrágio de barco com migrantes rumo à Europa na costa do Senegal
+  why: ''
+  source: CryptoSlate
+  url: https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/
+  cat: BUSINESS
+  good: false
+  visual:
+    type: icon
+- title: UE processa IBM, Atos e Leonardo em disputa de tecnologia de fronteira de € 212 milhões
+  why: A expansão da IA impacta diretamente os recursos locais e as redes elétricas.
+  source: Natural News
+  url: https://www.naturalnews.com/2026-11-09-data-centers-europe-face-protests-ai-growth.html
+  cat: TECH
+  good: false
+  visual:
+    type: map
+    country: United States of America
+    place: Estados Unidos
+    lat: 38.8951
+    lon: -77.0364
+    span: 25
+- title: Índia e UE fecham acordo para acesso ao programa de pesquisa Horizon Europe
+  why: As decisões de política internacional afetam as respostas a crises humanitárias regionais.
+  source: EUobserver
+  url: https://euobserver.com/247914/meps-demand-belgium-evacuate-visa-holders-from-gaza-as-winter-flooding-makes-life-catastrophic/
+  cat: WORLD
+  good: false
+  visual:
+    type: map
+    country: Belgium
+    place: Bélgica
+    lat: 50.8503
+    lon: 4.3517
+    span: 5
+- title: Adani Ports adquire a europeia Evos por € 2,56 bilhões para expandir alcance global
+  why: ''
+  source: EUobserver
+  url: https://euobserver.com/247741/listen-what-does-belgiums-budget-deadlock-mean-for-the-country/
+  cat: ECONOMY
+  good: false
+  visual:
+    type: map
+    country: Belgium
+    place: Bélgica
+    lat: 50.8503
+    lon: 4.3517
+    span: 5

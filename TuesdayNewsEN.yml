@@ -1,8 +1,58 @@
 date: 2026-11-10
 day: Tuesday
 news:
-  - title: "US political turmoil is driving investors to Europe, says EIB chief Nadia Calvino"
-  - title: "At least 39 dead and several missing after a Europe-bound migrant boat sinks off Senegal"
-  - title: "The EU is taking IBM, Atos and Leonardo to court over a €212m border tech dispute"
-  - title: "India and the EU finalize a deal for access to the Horizon Europe research program"
-  - title: "Adani Ports acquires Europe's Evos for €2.56bn to expand its global reach"
+- title: Russia and Ukraine set for US-backed peace talks
+  why: ''
+  source: The Globe and Mail
+  url: https://www.theglobeandmail.com/world/article-russia-ukraine-war-peace-talks-2/
+  cat: CONFLICT
+  good: false
+  visual:
+    type: icon
+- title: Amundi brings European stocks to Ethereum with access terms still under wraps
+  why: ''
+  source: CryptoSlate
+  url: https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/
+  cat: BUSINESS
+  good: false
+  visual:
+    type: icon
+- title: European data centers face protests as AI expansion hits US politics
+  why: AI expansion directly impacts local resources and power grids.
+  source: Natural News
+  url: https://www.naturalnews.com/2026-11-09-data-centers-europe-face-protests-ai-growth.html
+  cat: TECH
+  good: false
+  visual:
+    type: map
+    country: United States of America
+    place: United States
+    lat: 38.8951
+    lon: -77.0364
+    span: 25
+- title: MEPs urge Belgium to evacuate Gaza visa holders amid catastrophic winter floods
+  why: International policy decisions affect regional humanitarian crisis responses.
+  source: EUobserver
+  url: https://euobserver.com/247914/meps-demand-belgium-evacuate-visa-holders-from-gaza-as-winter-flooding-makes-life-catastrophic/
+  cat: WORLD
+  good: false
+  visual:
+    type: map
+    country: Belgium
+    place: Belgium
+    lat: 50.8503
+    lon: 4.3517
+    span: 5
+- title: What Belgium's budget deadlock means for the country
+  why: ''
+  source: EUobserver
+  url: https://euobserver.com/247741/listen-what-does-belgiums-budget-deadlock-mean-for-the-country/
+  cat: ECONOMY
+  good: false
+  visual:
+    type: map
+    country: Belgium
+    place: Belgium
+    lat: 50.8503
+    lon: 4.3517
+    span: 5
