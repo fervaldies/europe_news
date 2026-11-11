@@ -1,8 +1,63 @@
 date: 2026-11-04
 day: Wednesday
 news:
-  - title: "Bomb threats disrupt European flights, though no explosives were found."
-  - title: "The EU is spending $119M on a new Arctic cable to connect Greenland and Europe directly."
-  - title: "The French Prime Minister promises a massive police presence for upcoming protests."
-  - title: "German opposition leader Merz insists his party is the final barrier against the far-right AfD."
-  - title: "Spain's transport minister resigns following a deadly high-speed train crash."
+- title: Bomb threats disrupt European flights, though no explosives were found.
+  source: ''
+  url: ''
+  good: false
+  why: ''
+  cat: TRANSPORT
+  visual:
+    type: icon
+- title: The EU is spending $119M on a new Arctic cable to connect Greenland and Europe directly.
+  source: ''
+  url: ''
+  good: false
+  why: Faster, more secure digital communication links Europe and Greenland directly.
+  cat: TECH
+  visual:
+    type: map
+    country: Greenland
+    place: Greenland
+    lat: 64.1836
+    lon: -51.7217
+    span: 25
+- title: The French Prime Minister promises a massive police presence for upcoming protests.
+  source: ''
+  url: ''
+  good: false
+  why: ''
+  cat: POLITICS
+  visual:
+    type: map
+    country: France
+    place: Paris
+    lat: 48.8566
+    lon: 2.3522
+    span: 6
+- title: German opposition leader Merz insists his party is the final barrier against the far-right AfD.
+  source: ''
+  url: ''
+  good: false
+  why: ''
+  cat: POLITICS
+  visual:
+    type: map
+    country: Germany
+    place: Berlin
+    lat: 52.52
+    lon: 13.405
+    span: 6
+- title: Spain's transport minister resigns following a deadly high-speed train crash.
+  source: ''
+  url: ''
+  good: false
+  why: ''
+  cat: TRANSPORT
+  visual:
+    type: map
+    country: Spain
+    place: Madrid
+    lat: 40.4168
+    lon: -3.7038
+    span: 6

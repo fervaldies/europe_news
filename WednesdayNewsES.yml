@@ -1,8 +1,63 @@
 date: 2026-11-04
 day: Wednesday
 news:
-  - title: "Amenazas de bomba perturban vuelos europeos, aunque no se encontraron explosivos."
-  - title: "La UE gastará 119 millones de dólares en un nuevo cable ártico para conectar Groenlandia y Europa directamente."
-  - title: "El primer ministro francés promete una masiva presencia policial para las próximas protestas."
-  - title: "El líder de la oposición alemana, Merz, insiste en que su partido es la última barrera contra la ultraderechista AfD."
-  - title: "El ministro de Transportes de España dimite tras un trágico accidente de tren de alta velocidad."
+- title: Amenazas de bomba perturban vuelos europeos, aunque no se encontraron explosivos.
+  source: ''
+  url: ''
+  good: false
+  why: ''
+  cat: TRANSPORT
+  visual:
+    type: icon
+- title: La UE gastará 119 millones de dólares en un nuevo cable ártico para conectar Groenlandia y Europa directamente.
+  source: ''
+  url: ''
+  good: false
+  why: Enlaces de comunicación digital más rápidos y seguros conectan Europa y Groenlandia directamente.
+  cat: TECH
+  visual:
+    type: map
+    country: Greenland
+    place: Groenlandia
+    lat: 64.1836
+    lon: -51.7217
+    span: 25
+- title: El primer ministro francés promete una masiva presencia policial para las próximas protestas.
+  source: ''
+  url: ''
+  good: false
+  why: ''
+  cat: POLITICS
+  visual:
+    type: map
+    country: France
+    place: París
+    lat: 48.8566
+    lon: 2.3522
+    span: 6
+- title: El líder de la oposición alemana, Merz, insiste en que su partido es la última barrera contra la ultraderechista AfD.
+  source: ''
+  url: ''
+  good: false
+  why: ''
+  cat: POLITICS
+  visual:
+    type: map
+    country: Germany
+    place: Berlín
+    lat: 52.52
+    lon: 13.405
+    span: 6
+- title: El ministro de Transportes de España dimite tras un trágico accidente de tren de alta velocidad.
+  source: ''
+  url: ''
+  good: false
+  why: ''
+  cat: TRANSPORT
+  visual:
+    type: map
+    country: Spain
+    place: Madrid
+    lat: 40.4168
+    lon: -3.7038
+    span: 6
