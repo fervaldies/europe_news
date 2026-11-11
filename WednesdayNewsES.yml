@@ -1,58 +1,63 @@
-date: 2026-11-11
+date: 2026-11-12
 day: Wednesday
 news:
-- title: Zelensky se muestra satisfecho con los mensajes de EE. UU. sobre los esfuerzos para acabar con la guerra
-  source: The Hindu
-  url: https://www.thehindu.com/news/international/ukraines-zelenskyy-says-he-is-pleased-with-messages-from-us-envoys-on-diplomatic-efforts-to-end-war/article71687545.ece
+- title: El jefe de ciberseguridad de la UE advierte que los electrodomésticos podrían ser el próximo objetivo tras los ataques a frigoríficos
+  source: The Star
+  url: https://www.thestar.com.my/tech/tech-news/2026/11/11/after-fridge-hacks-home-appliances-could-be-next-warns-eu-cyber-chief
   good: false
-  trending: false
-  why: Los cambios en la política de EE. UU. afectan directamente a la guerra en curso y a la seguridad global.
-  cat: CONFLICT
-  visual:
-    type: map
-    country: United States of America
-    place: Washington, D.C.
-    lat: 38.8951
-    lon: -77.0364
-    span: 15
-- title: EE. UU. acusa a tres agentes por 20 atentados terroristas contra EE. UU., Europa y una base aérea del Reino Unido
-  source: ANI (Asian News International)
-  url: https://www.aninews.in/news/world/us/us-indicts-3-iranian-backed-operatives-for-nearly-20-terror-attacks-across-us-europe-uk-airbase-targeted20261111042331/
-  good: false
-  trending: false
+  trending: true
   why: ''
-  cat: JUSTICE
+  cat: TECH
   visual:
     type: icon
-- title: Los líderes británicos advierten que el Gobierno debe prepararse más rápido para posibles conflictos
-  source: The Independent
-  url: https://www.independent.co.uk/news/uk/politics/uk-government-war-1000-days-burnham-streeting-b3082789.html
-  good: false
-  trending: false
-  why: La preparación para la defensa nacional afecta la seguridad pública y los posibles despliegues militares.
-  cat: CONFLICT
-  visual:
-    type: map
-    country: United Kingdom
-    place: Londres
-    lat: 51.5074
-    lon: -0.1278
-    span: 8
-- title: La UE demanda a IBM, Atos y Leonardo por un litigio sobre un sistema de fronteras de 212 millones de euros
-  source: Pagenews.gr
-  url: https://www.pagenews.gr/2026/11/09/english-edition/eu-takes-ibm-atos-and-leonardo-to-court-over-e212mn-border-system-dispute/
-  good: false
-  trending: false
-  why: ''
-  cat: BUSINESS
-  visual:
-    type: icon
-- title: Europa teme que una crisis comercial con China impulse a la extrema ultraderecha y al declive industrial
+- title: El primer ministro francés promete una presencia policial masiva para las próximas protestas
   source: CNA
-  url: https://www.channelnewsasia.com/cna-insider/insider/europe-china-shock-dilemma-trade-war-export-surge-jobs-6525186
+  url: https://www.channelnewsasia.com/world/france-protest-riots-fire-paris-ban-6476071
   good: false
   trending: false
   why: ''
+  cat: POLITICS
+  visual:
+    type: map
+    country: France
+    place: Francia
+    lat: 46.603354
+    lon: 1.888334
+    span: 12
+- title: Merz se niega a ceder, califica a su partido de cortafuegos contra la AfD y advierte que el futuro de Alemania está en juego
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/10/15/english-edition/merz-defies-political-pressure-we-are-the-firewall-against-the-afd-and-germanys-future-is-at-stake/
+  good: false
+  trending: false
+  why: La estabilidad política y el futuro de Alemania dependen de las decisiones de los líderes de los partidos.
+  cat: POLITICS
+  visual:
+    type: map
+    country: Germany
+    place: Alemania
+    lat: 51.165691
+    lon: 10.451526
+    span: 25
+- title: España se sitúa como la economía avanzada grande de mayor crecimiento por tercer año consecutivo
+  source: Majorca Daily Bulletin
+  url: https://www.majorcadailybulletin.com/news/local/2026/10/13/146559/spain-ranked-the-fastest-growing-major-advanced-economy-for-the-third-year-running.html
+  good: false
+  trending: false
+  why: El crecimiento económico afecta directamente a las tasas de empleo y al nivel de vida en España.
   cat: ECONOMY
+  visual:
+    type: map
+    country: Spain
+    place: España
+    lat: 40.463667
+    lon: -3.74922
+    span: 25
+- title: La ultraderecha europea se distancia de Trump y culpa a la guerra de Irán de las pérdidas republicanas
+  source: The Straits Times
+  url: https://www.straitstimes.com/world/europe/european-far-right-distances-itself-from-trump-blaming-iran-war-for-republicans-defeat
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
   visual:
     type: icon

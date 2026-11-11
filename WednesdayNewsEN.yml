@@ -1,58 +1,63 @@
-date: 2026-11-11
+date: 2026-11-12
 day: Wednesday
 news:
-- title: Zelenskyy says he is pleased with US messages on efforts to end the war
-  source: The Hindu
-  url: https://www.thehindu.com/news/international/ukraines-zelenskyy-says-he-is-pleased-with-messages-from-us-envoys-on-diplomatic-efforts-to-end-war/article71687545.ece
+- title: EU cyber chief warns home appliances could be the next target after fridge hacks
+  source: The Star
+  url: https://www.thestar.com.my/tech/tech-news/2026/11/11/after-fridge-hacks-home-appliances-could-be-next-warns-eu-cyber-chief
   good: false
-  trending: false
-  why: US policy shifts directly impact the ongoing war and global security.
-  cat: CONFLICT
-  visual:
-    type: map
-    country: United States of America
-    place: Washington, D.C.
-    lat: 38.8951
-    lon: -77.0364
-    span: 15
-- title: US charges three operatives over 20 terror attacks targeting the US, Europe and a UK airbase
-  source: ANI (Asian News International)
-  url: https://www.aninews.in/news/world/us/us-indicts-3-iranian-backed-operatives-for-nearly-20-terror-attacks-across-us-europe-uk-airbase-targeted20261111042331/
-  good: false
-  trending: false
+  trending: true
   why: ''
-  cat: JUSTICE
+  cat: TECH
   visual:
     type: icon
-- title: UK leaders warn the government must prepare faster for potential conflicts
-  source: The Independent
-  url: https://www.independent.co.uk/news/uk/politics/uk-government-war-1000-days-burnham-streeting-b3082789.html
-  good: false
-  trending: false
-  why: National defense readiness affects public safety and potential military deployments.
-  cat: CONFLICT
-  visual:
-    type: map
-    country: United Kingdom
-    place: London
-    lat: 51.5074
-    lon: -0.1278
-    span: 8
-- title: EU sues IBM, Atos and Leonardo over a €212 million border system dispute
-  source: Pagenews.gr
-  url: https://www.pagenews.gr/2026/11/09/english-edition/eu-takes-ibm-atos-and-leonardo-to-court-over-e212mn-border-system-dispute/
-  good: false
-  trending: false
-  why: ''
-  cat: BUSINESS
-  visual:
-    type: icon
-- title: Europe fears a Chinese trade crisis could fuel the far right and industrial decline
+- title: French PM promises a massive police presence for upcoming protests
   source: CNA
-  url: https://www.channelnewsasia.com/cna-insider/insider/europe-china-shock-dilemma-trade-war-export-surge-jobs-6525186
+  url: https://www.channelnewsasia.com/world/france-protest-riots-fire-paris-ban-6476071
   good: false
   trending: false
   why: ''
+  cat: POLITICS
+  visual:
+    type: map
+    country: France
+    place: France
+    lat: 46.603354
+    lon: 1.888334
+    span: 12
+- title: Merz refuses to back down, calling his party a firewall against the AfD and warning Germany's future is at stake
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/10/15/english-edition/merz-defies-political-pressure-we-are-the-firewall-against-the-afd-and-germanys-future-is-at-stake/
+  good: false
+  trending: false
+  why: Germany's political stability and future depend on decisions made by party leaders.
+  cat: POLITICS
+  visual:
+    type: map
+    country: Germany
+    place: Germany
+    lat: 51.165691
+    lon: 10.451526
+    span: 25
+- title: Spain ranks as the fastest-growing major advanced economy for the third consecutive year
+  source: Majorca Daily Bulletin
+  url: https://www.majorcadailybulletin.com/news/local/2026/10/13/146559/spain-ranked-the-fastest-growing-major-advanced-economy-for-the-third-year-running.html
+  good: false
+  trending: false
+  why: Economic growth directly affects employment rates and living standards in Spain.
   cat: ECONOMY
+  visual:
+    type: map
+    country: Spain
+    place: Spain
+    lat: 40.463667
+    lon: -3.74922
+    span: 25
+- title: European far right distances itself from Trump and blames the Iran war for Republican losses
+  source: The Straits Times
+  url: https://www.straitstimes.com/world/europe/european-far-right-distances-itself-from-trump-blaming-iran-war-for-republicans-defeat
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
   visual:
     type: icon
