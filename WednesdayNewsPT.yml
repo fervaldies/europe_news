@@ -1,0 +1,58 @@
+date: 2026-11-11
+day: Wednesday
+news:
+- title: Zelenskyy diz estar satisfeito com mensagens dos EUA sobre esforços para encerrar a guerra
+  source: The Hindu
+  url: https://www.thehindu.com/news/international/ukraines-zelenskyy-says-he-is-pleased-with-messages-from-us-envoys-on-diplomatic-efforts-to-end-war/article71687545.ece
+  good: false
+  trending: false
+  why: As mudanças na política dos EUA afetam diretamente a guerra em curso e a segurança global.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: United States of America
+    place: Washington, D.C.
+    lat: 38.8951
+    lon: -77.0364
+    span: 15
+- title: EUA acusam três agentes por 20 ataques terroristas contra EUA, Europa e base aérea britânica
+  source: ANI (Asian News International)
+  url: https://www.aninews.in/news/world/us/us-indicts-3-iranian-backed-operatives-for-nearly-20-terror-attacks-across-us-europe-uk-airbase-targeted20261111042331/
+  good: false
+  trending: false
+  why: ''
+  cat: JUSTICE
+  visual:
+    type: icon
+- title: Lideranças do Reino Unido alertam que governo deve se preparar mais rápido para potenciais conflitos
+  source: The Independent
+  url: https://www.independent.co.uk/news/uk/politics/uk-government-war-1000-days-burnham-streeting-b3082789.html
+  good: false
+  trending: false
+  why: A prontidão da defesa nacional afeta a segurança pública e potenciais mobilizações militares.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: United Kingdom
+    place: Londres
+    lat: 51.5074
+    lon: -0.1278
+    span: 8
+- title: UE processa IBM, Atos e Leonardo por disputa sobre sistema de fronteira de €212 milhões
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/11/09/english-edition/eu-takes-ibm-atos-and-leonardo-to-court-over-e212mn-border-system-dispute/
+  good: false
+  trending: false
+  why: ''
+  cat: BUSINESS
+  visual:
+    type: icon
+- title: Europa teme que crise comercial chinesa possa alimentar extrema direita e declínio industrial
+  source: CNA
+  url: https://www.channelnewsasia.com/cna-insider/insider/europe-china-shock-dilemma-trade-war-export-surge-jobs-6525186
+  good: false
+  trending: false
+  why: ''
+  cat: ECONOMY
+  visual:
+    type: icon

@@ -1,63 +1,58 @@
-date: 2026-11-04
+date: 2026-11-11
 day: Wednesday
 news:
-- title: Amenazas de bomba perturban vuelos europeos, aunque no se encontraron explosivos.
-  source: ''
-  url: ''
+- title: Zelensky se muestra satisfecho con los mensajes de EE. UU. sobre los esfuerzos para acabar con la guerra
+  source: The Hindu
+  url: https://www.thehindu.com/news/international/ukraines-zelenskyy-says-he-is-pleased-with-messages-from-us-envoys-on-diplomatic-efforts-to-end-war/article71687545.ece
   good: false
+  trending: false
+  why: Los cambios en la política de EE. UU. afectan directamente a la guerra en curso y a la seguridad global.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: United States of America
+    place: Washington, D.C.
+    lat: 38.8951
+    lon: -77.0364
+    span: 15
+- title: EE. UU. acusa a tres agentes por 20 atentados terroristas contra EE. UU., Europa y una base aérea del Reino Unido
+  source: ANI (Asian News International)
+  url: https://www.aninews.in/news/world/us/us-indicts-3-iranian-backed-operatives-for-nearly-20-terror-attacks-across-us-europe-uk-airbase-targeted20261111042331/
+  good: false
+  trending: false
   why: ''
-  cat: TRANSPORT
+  cat: JUSTICE
   visual:
     type: icon
-- title: La UE gastará 119 millones de dólares en un nuevo cable ártico para conectar Groenlandia y Europa directamente.
-  source: ''
-  url: ''
+- title: Los líderes británicos advierten que el Gobierno debe prepararse más rápido para posibles conflictos
+  source: The Independent
+  url: https://www.independent.co.uk/news/uk/politics/uk-government-war-1000-days-burnham-streeting-b3082789.html
   good: false
-  why: Enlaces de comunicación digital más rápidos y seguros conectan Europa y Groenlandia directamente.
-  cat: TECH
+  trending: false
+  why: La preparación para la defensa nacional afecta la seguridad pública y los posibles despliegues militares.
+  cat: CONFLICT
   visual:
     type: map
-    country: Greenland
-    place: Groenlandia
-    lat: 64.1836
-    lon: -51.7217
-    span: 25
-- title: El primer ministro francés promete una masiva presencia policial para las próximas protestas.
-  source: ''
-  url: ''
+    country: United Kingdom
+    place: Londres
+    lat: 51.5074
+    lon: -0.1278
+    span: 8
+- title: La UE demanda a IBM, Atos y Leonardo por un litigio sobre un sistema de fronteras de 212 millones de euros
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/11/09/english-edition/eu-takes-ibm-atos-and-leonardo-to-court-over-e212mn-border-system-dispute/
   good: false
+  trending: false
   why: ''
-  cat: POLITICS
+  cat: BUSINESS
   visual:
-    type: map
-    country: France
-    place: París
-    lat: 48.8566
-    lon: 2.3522
-    span: 6
-- title: El líder de la oposición alemana, Merz, insiste en que su partido es la última barrera contra la ultraderechista AfD.
-  source: ''
-  url: ''
+    type: icon
+- title: Europa teme que una crisis comercial con China impulse a la extrema ultraderecha y al declive industrial
+  source: CNA
+  url: https://www.channelnewsasia.com/cna-insider/insider/europe-china-shock-dilemma-trade-war-export-surge-jobs-6525186
   good: false
+  trending: false
   why: ''
-  cat: POLITICS
+  cat: ECONOMY
   visual:
-    type: map
-    country: Germany
-    place: Berlín
-    lat: 52.52
-    lon: 13.405
-    span: 6
-- title: El ministro de Transportes de España dimite tras un trágico accidente de tren de alta velocidad.
-  source: ''
-  url: ''
-  good: false
-  why: ''
-  cat: TRANSPORT
-  visual:
-    type: map
-    country: Spain
-    place: Madrid
-    lat: 40.4168
-    lon: -3.7038
-    span: 6
+    type: icon

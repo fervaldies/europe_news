@@ -1,63 +1,58 @@
-date: 2026-11-04
+date: 2026-11-11
 day: Wednesday
 news:
-- title: Bomb threats disrupt European flights, though no explosives were found.
-  source: ''
-  url: ''
+- title: Zelenskyy says he is pleased with US messages on efforts to end the war
+  source: The Hindu
+  url: https://www.thehindu.com/news/international/ukraines-zelenskyy-says-he-is-pleased-with-messages-from-us-envoys-on-diplomatic-efforts-to-end-war/article71687545.ece
   good: false
+  trending: false
+  why: US policy shifts directly impact the ongoing war and global security.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: United States of America
+    place: Washington, D.C.
+    lat: 38.8951
+    lon: -77.0364
+    span: 15
+- title: US charges three operatives over 20 terror attacks targeting the US, Europe and a UK airbase
+  source: ANI (Asian News International)
+  url: https://www.aninews.in/news/world/us/us-indicts-3-iranian-backed-operatives-for-nearly-20-terror-attacks-across-us-europe-uk-airbase-targeted20261111042331/
+  good: false
+  trending: false
   why: ''
-  cat: TRANSPORT
+  cat: JUSTICE
   visual:
     type: icon
-- title: The EU is spending $119M on a new Arctic cable to connect Greenland and Europe directly.
-  source: ''
-  url: ''
+- title: UK leaders warn the government must prepare faster for potential conflicts
+  source: The Independent
+  url: https://www.independent.co.uk/news/uk/politics/uk-government-war-1000-days-burnham-streeting-b3082789.html
   good: false
-  why: Faster, more secure digital communication links Europe and Greenland directly.
-  cat: TECH
+  trending: false
+  why: National defense readiness affects public safety and potential military deployments.
+  cat: CONFLICT
   visual:
     type: map
-    country: Greenland
-    place: Greenland
-    lat: 64.1836
-    lon: -51.7217
-    span: 25
-- title: The French Prime Minister promises a massive police presence for upcoming protests.
-  source: ''
-  url: ''
+    country: United Kingdom
+    place: London
+    lat: 51.5074
+    lon: -0.1278
+    span: 8
+- title: EU sues IBM, Atos and Leonardo over a €212 million border system dispute
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/11/09/english-edition/eu-takes-ibm-atos-and-leonardo-to-court-over-e212mn-border-system-dispute/
   good: false
+  trending: false
   why: ''
-  cat: POLITICS
+  cat: BUSINESS
   visual:
-    type: map
-    country: France
-    place: Paris
-    lat: 48.8566
-    lon: 2.3522
-    span: 6
-- title: German opposition leader Merz insists his party is the final barrier against the far-right AfD.
-  source: ''
-  url: ''
+    type: icon
+- title: Europe fears a Chinese trade crisis could fuel the far right and industrial decline
+  source: CNA
+  url: https://www.channelnewsasia.com/cna-insider/insider/europe-china-shock-dilemma-trade-war-export-surge-jobs-6525186
   good: false
+  trending: false
   why: ''
-  cat: POLITICS
+  cat: ECONOMY
   visual:
-    type: map
-    country: Germany
-    place: Berlin
-    lat: 52.52
-    lon: 13.405
-    span: 6
-- title: Spain's transport minister resigns following a deadly high-speed train crash.
-  source: ''
-  url: ''
-  good: false
-  why: ''
-  cat: TRANSPORT
-  visual:
-    type: map
-    country: Spain
-    place: Madrid
-    lat: 40.4168
-    lon: -3.7038
-    span: 6
+    type: icon
