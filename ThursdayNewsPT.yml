@@ -1,0 +1,85 @@
+date: 2026-11-13
+day: Thursday
+news:
+- title: Novas acusações revelam supostos planos apoiados pelo Irã nos EUA e na Europa
+  source: PBS News
+  url: https://www.pbs.org/newshour/show/indictment-sheds-light-on-alleged-iran-backed-plots-across-u-s-and-europe
+  good: false
+  trending: false
+  why: Tramas estrangeiras ameaçam a segurança pública em comunidades em toda a América.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: United States of America
+    place: Estados Unidos
+    lat: 39.8283
+    lon: -98.5795
+    span: 25
+    country2: Iran
+    place2: Irã
+    lat2: 32.4279
+    lon2: 53.688
+    span2: 25
+- title: Enviados de Trump se reunirão com Putin enquanto os EUA pressionam por acordo de paz na Ucrânia
+  source: The Tribune
+  url: https://www.tribuneindia.com/news/world/trump-envoys-to-meet-putin-as-us-pushes-ukraine-peace-deal-new-europe-russia-security-framework-reports-axios/
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
+  visual:
+    type: map
+    country: Ukraine
+    place: Ucrânia
+    lat: 48.3794
+    lon: 31.1656
+    span: 20
+    country2: Russia
+    place2: Rússia
+    lat2: 61.524
+    lon2: 105.3188
+    span2: 35
+- title: Onda massiva de falsas ameaças de bomba força evacuação de escolas em Itália, Irlanda e Reino Unido
+  source: The News International
+  url: https://www.thenews.com.pk/latest/1423306-massive-hoax-bomb-threat-wave-evacuates-schools-across-italy-ireland-and-uk
+  good: false
+  trending: false
+  why: ''
+  cat: SOCIETY
+  visual:
+    type: map
+    country: Italy
+    place: Itália
+    lat: 41.8719
+    lon: 12.5674
+    span: 15
+  chart_check:
+    result: 'not used: 200 isn''t in the article; 70 isn''t in the article; a quoted sentence isn''t in the article'
+- title: Por dentro da luta contra as leis habitacionais discriminatórias da Dinamarca
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3368787/
+  good: false
+  trending: false
+  why: ''
+  cat: JUSTICE
+  visual:
+    type: map
+    country: Denmark
+    place: Dinamarca
+    lat: 56.2639
+    lon: 9.5018
+    span: 12
+- title: BIR constrói nova instalação de biogás de energia renovável em Voss, Noruega
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3368785/
+  good: false
+  trending: false
+  why: ''
+  cat: ENERGY
+  visual:
+    type: map
+    country: Norway
+    place: Voss
+    lat: 60.6299
+    lon: 6.4172
+    span: 3

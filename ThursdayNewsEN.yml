@@ -1,8 +1,85 @@
-date: 2026-11-05
+date: 2026-11-13
 day: Thursday
 news:
-  - title: "French blood banks targeted in major European cyberattack"
-  - title: "Italian flights disrupted by bomb threats, fighter jets deployed"
-  - title: "Herbert Blomstedt, legendary San Francisco Symphony conductor, dies at 99"
-  - title: "Miriam O'Callaghan explores Ireland's population crisis in new RTÉ documentary"
-  - title: "Mark Carney heads to Ireland, Philippines, Cambodia and China"
+- title: New charges reveal alleged Iran-backed plots across the U.S. and Europe
+  source: PBS News
+  url: https://www.pbs.org/newshour/show/indictment-sheds-light-on-alleged-iran-backed-plots-across-u-s-and-europe
+  good: false
+  trending: false
+  why: Foreign plots threaten public safety in communities across America.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: United States of America
+    place: United States
+    lat: 39.8283
+    lon: -98.5795
+    span: 25
+    country2: Iran
+    place2: Iran
+    lat2: 32.4279
+    lon2: 53.688
+    span2: 25
+- title: Trump envoys to meet Putin as the U.S. pushes for a Ukraine peace deal
+  source: The Tribune
+  url: https://www.tribuneindia.com/news/world/trump-envoys-to-meet-putin-as-us-pushes-ukraine-peace-deal-new-europe-russia-security-framework-reports-axios/
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
+  visual:
+    type: map
+    country: Ukraine
+    place: Ukraine
+    lat: 48.3794
+    lon: 31.1656
+    span: 20
+    country2: Russia
+    place2: Russia
+    lat2: 61.524
+    lon2: 105.3188
+    span2: 35
+- title: Massive wave of fake bomb threats forces school evacuations across Italy, Ireland, and the UK
+  source: The News International
+  url: https://www.thenews.com.pk/latest/1423306-massive-hoax-bomb-threat-wave-evacuates-schools-across-italy-ireland-and-uk
+  good: false
+  trending: false
+  why: ''
+  cat: SOCIETY
+  visual:
+    type: map
+    country: Italy
+    place: Italy
+    lat: 41.8719
+    lon: 12.5674
+    span: 15
+  chart_check:
+    result: 'not used: 200 isn''t in the article; 70 isn''t in the article; a quoted sentence isn''t in the article'
+- title: Inside the fight against Denmark's discriminatory housing laws
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3368787/
+  good: false
+  trending: false
+  why: ''
+  cat: JUSTICE
+  visual:
+    type: map
+    country: Denmark
+    place: Denmark
+    lat: 56.2639
+    lon: 9.5018
+    span: 12
+- title: BIR builds a new renewable energy biogas facility in Voss, Norway
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3368785/
+  good: false
+  trending: false
+  why: ''
+  cat: ENERGY
+  visual:
+    type: map
+    country: Norway
+    place: Voss
+    lat: 60.6299
+    lon: 6.4172
+    span: 3
