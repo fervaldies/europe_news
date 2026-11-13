@@ -1,0 +1,68 @@
+date: 2026-11-13
+day: Friday
+news:
+- title: Eropa Akan Ikuti Pembicaraan Damai Rusia-Ukraina di Tengah Sikap Keras Putin
+  source: The Manila Times
+  url: https://www.manilatimes.net/2026/11/13/world/americas-emea/us-ukraine-say-europe-to-join-russia-talks-as-putin-sticks-to-hardline-stance/2469216
+  good: false
+  trending: false
+  why: Eropa bergabung dalam perundingan damai dapat mengakhiri perang yang memengaruhi keamanan global.
+  cat: POLITICS
+  visual:
+    type: map
+    country: Ukraine
+    place: Ukraina
+    lat: 48.3794
+    lon: 31.1656
+    span: 25
+- title: Zelensky Rayakan Kemenangan Besar Usai Amankan Pertukaran Tahanan dengan Rusia
+  source: Evening Standard
+  url: https://www.standard.co.uk/news/politics/volodymyr-zelensky-vladimir-putin-jared-kushner-europe-micheal-martin-b1304711.html
+  good: false
+  trending: false
+  why: Pertukaran tahanan menyatukan kembali keluarga dan menandakan pergeseran dalam perang yang sedang berlangsung.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: Russia
+    place: Rusia
+    lat: 61.524
+    lon: 105.3188
+    span: 25
+- title: Belgia Salahkan Iran atas Gelombang Serangan Siber yang Incar Peralatan Rumah Tangga
+  source: The Straits Times
+  url: https://www.straitstimes.com/world/europe/belgium-says-evidence-points-at-iran-over-fridge-cyberattacks
+  good: false
+  trending: false
+  why: ''
+  cat: TECH
+  visual:
+    type: map
+    country: Belgium
+    place: Belgia
+    lat: 50.5039
+    lon: 4.4699
+    span: 12
+- title: Pelatih Detroit Lions Dan Campbell Ulas Duel Lawan Patriots, Cedera, dan Batas Waktu Bursa Transfer Jelang Jerman
+  source: WDIV ClickOnDetroit
+  url: https://www.clickondetroit.com/sports/2026/11/13/detroit-lions-dan-campbell-talks-patriots-matchup-trade-deadline-injuries-ahead-of-germany-trip/
+  good: false
+  trending: false
+  why: ''
+  cat: SPORT
+  visual:
+    type: map
+    country: United States of America
+    place: Detroit
+    lat: 42.3314
+    lon: -83.0458
+    span: 3
+- title: Klopp Berjanji Gelandang Nmecha Akan Hentikan Selebrasi Gol Kontroversialnya
+  source: ESPN
+  url: https://www.espn.com/soccer/story/_/id/50464524/klopp-nmecha-controversial-crown-celebration
+  good: false
+  trending: false
+  why: ''
+  cat: SPORT
+  visual:
+    type: icon

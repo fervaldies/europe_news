@@ -1,0 +1,68 @@
+date: 2026-11-13
+day: Friday
+news:
+- title: Europa participará de negociações de paz entre Rússia e Ucrânia enquanto Putin mantém postura dura.
+  source: The Manila Times
+  url: https://www.manilatimes.net/2026/11/13/world/americas-emea/us-ukraine-say-europe-to-join-russia-talks-as-putin-sticks-to-hardline-stance/2469216
+  good: false
+  trending: false
+  why: A Europa participar nas negociações de paz pode acabar com a guerra que afeta a segurança global.
+  cat: POLITICS
+  visual:
+    type: map
+    country: Ukraine
+    place: Ucrânia
+    lat: 48.3794
+    lon: 31.1656
+    span: 25
+- title: Zelensky comemora grande vitória após garantir troca de prisioneiros com a Rússia.
+  source: Evening Standard
+  url: https://www.standard.co.uk/news/politics/volodymyr-zelensky-vladimir-putin-jared-kushner-europe-micheal-martin-b1304711.html
+  good: false
+  trending: false
+  why: As trocas de prisioneiros reúnem famílias e sinalizam mudanças na guerra em curso.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: Russia
+    place: Rússia
+    lat: 61.524
+    lon: 105.3188
+    span: 25
+- title: Bélgica culpa o Irã por onda de ataques cibernéticos contra eletrodomésticos.
+  source: The Straits Times
+  url: https://www.straitstimes.com/world/europe/belgium-says-evidence-points-at-iran-over-fridge-cyberattacks
+  good: false
+  trending: false
+  why: ''
+  cat: TECH
+  visual:
+    type: map
+    country: Belgium
+    place: Bélgica
+    lat: 50.5039
+    lon: 4.4699
+    span: 12
+- title: Técnico do Detroit Lions, Dan Campbell, projeta confronto com Patriots, lesões e prazos de trocas antes da Alemanha.
+  source: WDIV ClickOnDetroit
+  url: https://www.clickondetroit.com/sports/2026/11/13/detroit-lions-dan-campbell-talks-patriots-matchup-trade-deadline-injuries-ahead-of-germany-trip/
+  good: false
+  trending: false
+  why: ''
+  cat: SPORT
+  visual:
+    type: map
+    country: United States of America
+    place: Detroit
+    lat: 42.3314
+    lon: -83.0458
+    span: 3
+- title: Klopp promete que o meio-campista Nmecha abandonará sua comemoração de gol polêmica.
+  source: ESPN
+  url: https://www.espn.com/soccer/story/_/id/50464524/klopp-nmecha-controversial-crown-celebration
+  good: false
+  trending: false
+  why: ''
+  cat: SPORT
+  visual:
+    type: icon

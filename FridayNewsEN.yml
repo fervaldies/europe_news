@@ -1,8 +1,68 @@
-date: 2026-11-06
+date: 2026-11-13
 day: Friday
 news:
-  - title: "European fighter jets scrambled after hoax bomb threats target 20 commercial flights for a third day"
-  - title: "Trump says a major Ukraine agreement might involve all of Europe following White House talks"
-  - title: "Italy's Meloni criticizes Europe's messy approach to Ukraine negotiations"
-  - title: "CoorsTek wins a German patent court battle over pink ceramic hip replacement parts"
-  - title: "American sentenced to life in prison for the Rome murders of his partner and baby girl"
+- title: Europe will join Russia-Ukraine peace talks as Putin maintains a hardline stance.
+  source: The Manila Times
+  url: https://www.manilatimes.net/2026/11/13/world/americas-emea/us-ukraine-say-europe-to-join-russia-talks-as-putin-sticks-to-hardline-stance/2469216
+  good: false
+  trending: false
+  why: Europe joining peace talks could end the war affecting global security.
+  cat: POLITICS
+  visual:
+    type: map
+    country: Ukraine
+    place: Ukraine
+    lat: 48.3794
+    lon: 31.1656
+    span: 25
+- title: Zelensky celebrates a major win after securing a prisoner exchange with Russia.
+  source: Evening Standard
+  url: https://www.standard.co.uk/news/politics/volodymyr-zelensky-vladimir-putin-jared-kushner-europe-micheal-martin-b1304711.html
+  good: false
+  trending: false
+  why: Prisoner exchanges reunite families and signal shifts in the ongoing war.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: Russia
+    place: Russia
+    lat: 61.524
+    lon: 105.3188
+    span: 25
+- title: Belgium blames Iran for a wave of cyberattacks targeting household appliances.
+  source: The Straits Times
+  url: https://www.straitstimes.com/world/europe/belgium-says-evidence-points-at-iran-over-fridge-cyberattacks
+  good: false
+  trending: false
+  why: ''
+  cat: TECH
+  visual:
+    type: map
+    country: Belgium
+    place: Belgium
+    lat: 50.5039
+    lon: 4.4699
+    span: 12
+- title: Detroit Lions coach Dan Campbell previews the Patriots clash, injuries, and trade deadlines ahead of Germany.
+  source: WDIV ClickOnDetroit
+  url: https://www.clickondetroit.com/sports/2026/11/13/detroit-lions-dan-campbell-talks-patriots-matchup-trade-deadline-injuries-ahead-of-germany-trip/
+  good: false
+  trending: false
+  why: ''
+  cat: SPORT
+  visual:
+    type: map
+    country: United States of America
+    place: Detroit
+    lat: 42.3314
+    lon: -83.0458
+    span: 3
+- title: Klopp promises midfielder Nmecha will drop his controversial goal celebration.
+  source: ESPN
+  url: https://www.espn.com/soccer/story/_/id/50464524/klopp-nmecha-controversial-crown-celebration
+  good: false
+  trending: false
+  why: ''
+  cat: SPORT
+  visual:
+    type: icon
