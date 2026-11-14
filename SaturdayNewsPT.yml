@@ -1,0 +1,68 @@
+date: 2026-11-14
+day: Saturday
+news:
+- title: Estónia apoia Costa e Kallas para conversações de paz na Ucrânia e diz que Putin não escolhe a voz da Europa
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/11/14/english-edition/putin-doesnt-get-to-choose-who-speaks-for-europe-estonia-backs-costa-and-kallas-for-ukraine-peace-talks/
+  good: false
+  trending: true
+  why: Líderes europeus negociam termos que podem impactar diretamente o resultado da guerra.
+  cat: POLITICS
+  visual:
+    type: map
+    country: Estonia
+    place: Tallin
+    lat: 59.437
+    lon: 24.7536
+    span: 3
+- title: UE acorda novas regras para licenças gratuitas de carbono para a indústria pesada
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3373408/
+  good: false
+  trending: false
+  why: As regras de emissões industriais afetarão os preços ao consumidor e os empregos na manufatura em toda a Europa.
+  cat: BUSINESS
+  visual:
+    type: icon
+- title: Parlamento Europeu enfrenta apelos para reforçar apoio à Gronelândia em meio a crescentes ameaças à soberania
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3371529/
+  good: false
+  trending: false
+  why: ''
+  cat: WORLD
+  visual:
+    type: map
+    country: Greenland
+    place: Nuuk
+    lat: 64.1814
+    lon: -51.6941
+    span: 12
+- title: Espanha aprova medidas de habitação após protestos massivos, embora o seu futuro dependa de eleições
+  source: The Atlanta Journal-Constitution
+  url: https://www.ajc.com/news/2026/11/spain-approves-housing-measures-after-huge-protests-their-duration-may-depend-on-the-election/
+  good: false
+  trending: false
+  why: ''
+  cat: SOCIETY
+  visual:
+    type: map
+    country: Spain
+    place: Madri
+    lat: 40.4168
+    lon: -3.7038
+    span: 6
+- title: Primeiro-ministro Carney fortalece laços do Canadá com a Europa na Cimeira da Comunidade Política Europeia
+  source: The Expositor
+  url: https://www.brantfordexpositor.ca/press-releases/pr-newswire/prime-minister-carney-strengthens-canadas-alliance-with-europe-at-the-summit-of-the-european-political-community/
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
+  visual:
+    type: map
+    country: Canada
+    place: Ottawa
+    lat: 45.4215
+    lon: -75.6972
+    span: 25

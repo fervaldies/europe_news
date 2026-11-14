@@ -1,8 +1,68 @@
-date: 2026-11-07
+date: 2026-11-14
 day: Saturday
 news:
-  - title: "El FBI advierte sobre ciberataques mientras España afronta crecientes preocupaciones por la guerra híbrida"
-  - title: "Burger King cambia de manos en España tras una macroperación de 2.300 millones de euros"
-  - title: "Europa teme que una nueva crisis comercial con China debilite la industria y impulse a la extrema derecha"
-  - title: "Adani Ports se expande a nivel global con la compra de la europea Evos por 2.560 millones de euros"
-  - title: "Grecia introduce nuevos impuestos a las criptomonedas, incluido un gravamen del 10 por ciento sobre las ganancias"
+- title: Estonia apoya a Costa y Kallas para las negociaciones de paz en Ucrania y afirma que Putin no elige la voz de Europa
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/11/14/english-edition/putin-doesnt-get-to-choose-who-speaks-for-europe-estonia-backs-costa-and-kallas-for-ukraine-peace-talks/
+  good: false
+  trending: true
+  why: Los líderes europeos negocian condiciones que podrían afectar directamente al resultado de la guerra.
+  cat: POLITICS
+  visual:
+    type: map
+    country: Estonia
+    place: Tallin
+    lat: 59.437
+    lon: 24.7536
+    span: 3
+- title: La UE acuerda nuevas normas sobre derechos de emisión de carbono gratuitos para la industria pesada
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3373408/
+  good: false
+  trending: false
+  why: Las normas sobre emisiones industriales afectarán a los precios de consumo y a los empleos industriales en toda Europa.
+  cat: BUSINESS
+  visual:
+    type: icon
+- title: El Parlamento Europeo se enfrenta a llamamientos para aumentar el apoyo a Groenlandia ante las crecientes amenazas a su soberanía
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3371529/
+  good: false
+  trending: false
+  why: ''
+  cat: WORLD
+  visual:
+    type: map
+    country: Greenland
+    place: Nuuk
+    lat: 64.1814
+    lon: -51.6941
+    span: 12
+- title: España aprueba medidas de vivienda tras masivas protestas, aunque su futuro depende de las elecciones
+  source: The Atlanta Journal-Constitution
+  url: https://www.ajc.com/news/2026/11/spain-approves-housing-measures-after-huge-protests-their-duration-may-depend-on-the-election/
+  good: false
+  trending: false
+  why: ''
+  cat: SOCIETY
+  visual:
+    type: map
+    country: Spain
+    place: Madrid
+    lat: 40.4168
+    lon: -3.7038
+    span: 6
+- title: El primer ministro Carney fortalece los lazos de Canadá con Europa en la Cumbre de la Comunidad Política Europea
+  source: The Expositor
+  url: https://www.brantfordexpositor.ca/press-releases/pr-newswire/prime-minister-carney-strengthens-canadas-alliance-with-europe-at-the-summit-of-the-european-political-community/
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
+  visual:
+    type: map
+    country: Canada
+    place: Ottawa
+    lat: 45.4215
+    lon: -75.6972
+    span: 25

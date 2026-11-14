@@ -1,8 +1,68 @@
-date: 2026-11-07
+date: 2026-11-14
 day: Saturday
 news:
-  - title: "FBI warns of cyber attacks as Spain faces growing hybrid warfare concerns"
-  - title: "Burger King changes hands in Spain following a massive 2.3 billion euro deal"
-  - title: "Europe fears a new Chinese trade crisis could weaken industry and boost the far right"
-  - title: "Adani Ports expands globally by buying Europe's Evos for 2.56 billion euros"
-  - title: "Greece introduces new crypto taxes, including a 10 percent levy on gains"
+- title: Estonia backs Costa and Kallas for Ukraine peace talks, saying Putin does not choose Europe's voice
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/11/14/english-edition/putin-doesnt-get-to-choose-who-speaks-for-europe-estonia-backs-costa-and-kallas-for-ukraine-peace-talks/
+  good: false
+  trending: true
+  why: European leaders negotiate terms that could directly impact the war's outcome.
+  cat: POLITICS
+  visual:
+    type: map
+    country: Estonia
+    place: Tallinn
+    lat: 59.437
+    lon: 24.7536
+    span: 3
+- title: EU agrees on new rules for free carbon permits for heavy industry
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3373408/
+  good: false
+  trending: false
+  why: Industrial emission rules will affect consumer prices and manufacturing jobs across Europe.
+  cat: BUSINESS
+  visual:
+    type: icon
+- title: European Parliament faces calls to boost Greenland support amid growing sovereignty threats
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3371529/
+  good: false
+  trending: false
+  why: ''
+  cat: WORLD
+  visual:
+    type: map
+    country: Greenland
+    place: Nuuk
+    lat: 64.1814
+    lon: -51.6941
+    span: 12
+- title: Spain approves housing measures following massive protests, though their future depends on elections
+  source: The Atlanta Journal-Constitution
+  url: https://www.ajc.com/news/2026/11/spain-approves-housing-measures-after-huge-protests-their-duration-may-depend-on-the-election/
+  good: false
+  trending: false
+  why: ''
+  cat: SOCIETY
+  visual:
+    type: map
+    country: Spain
+    place: Madrid
+    lat: 40.4168
+    lon: -3.7038
+    span: 6
+- title: Prime Minister Carney strengthens Canada's ties with Europe at the European Political Community Summit
+  source: The Expositor
+  url: https://www.brantfordexpositor.ca/press-releases/pr-newswire/prime-minister-carney-strengthens-canadas-alliance-with-europe-at-the-summit-of-the-european-political-community/
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
+  visual:
+    type: map
+    country: Canada
+    place: Ottawa
+    lat: 45.4215
+    lon: -75.6972
+    span: 25
