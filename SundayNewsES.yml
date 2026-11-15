@@ -1,93 +1,100 @@
 date: 2026-11-15
 day: Sunday
 news:
-- title: Zelensky advierte de que un plan de seguridad europeo respaldado por EE. UU. podría en realidad ayudar a Putin.
-  source: The Oregonian
-  url: https://www.oregonlive.com/nation/2026/11/european-security-framework-floated-by-us-could-benefit-putin-zelenskyy-says.html
+- title: Kushner presiona para lograr conversaciones directas entre Rusia y Europa que garanticen la paz en Ucrania
+  source: Spokane Spokesman-Review
+  url: https://www.spokesman.com/stories/2026/nov/14/kushner-wants-direct-russia-europe-talks-in-ukrain/
   good: false
   trending: false
-  why: Afecta a la futura estabilidad europea y a los compromisos de seguridad estadounidense.
-  cat: CONFLICT
+  why: ''
+  cat: POLITICS
   visual:
     type: map
     country: Ukraine
-    place: Kiev
-    lat: 50.4501
-    lon: 30.5234
+    place: Ucrania
+    lat: 48.3794
+    lon: 31.1656
     span: 25
-- title: Estas imágenes revelan cómo un sospechoso de terrorismo iraní planeaba atentados en el Reino Unido.
-  source: The i Paper
-  url: https://inews.co.uk/news/images-show-iran-terror-suspect-plotted-attacks-uk-4901425
+  photo:
+    url: https://upload.wikimedia.org/wikipedia/commons/f/fd/Mexican_Peace_Commissioners_Jos%C3%A9_Mar%C3%ADa_Pino_Su%C3%A1rez%2C_Dr._Vazquez_Gomez%2C_Francisco_I._Madero%2C_and_Judge_Carbajal_seated_around_table%2C_during_the_Mexican_Peace_Commission_at_Ciudad_Juarez%2C_LCCN97508873.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: Scott Photo Co., photographer · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Mexican_Peace_Commissioners_Jos%C3%A9_Mar%C3%ADa_Pino_Su%C3%A1rez,_Dr._Vazquez_Gomez,_Francisco_I._Madero,_and_Judge_Carbajal_seated_around_table,_during_the_Mexican_Peace_Commission_at_Ciudad_Juarez,_LCCN97508873.jpg
+    query: peace negotiations table
+- title: Italia niega haber bloqueado la entrada de Alemania en el nuevo proyecto de caza británico
+  source: The Telegraph
+  url: https://www.telegraph.co.uk/news/2026/11/14/gcap-global-fighter-jet-project-italy-germany-britain/
   good: false
   trending: false
-  why: Impacta directamente en la seguridad pública y las medidas antiterroristas nacionales.
-  cat: JUSTICE
+  why: ''
+  cat: DEFENCE
   visual:
     type: map
-    country: United Kingdom
-    place: Londres
-    lat: 51.5074
-    lon: -0.1278
+    country: Italy
+    place: Roma
+    lat: 41.9028
+    lon: 12.4964
     span: 12
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pole_with_surveillance_camera_and_kill_switch.jpg/1280px-Pole_with_surveillance_camera_and_kill_switch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Syced · CC0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Pole_with_surveillance_camera_and_kill_switch.jpg
-    query: surveillance camera
-- title: La UE acaba de acordar nuevos derechos de emisión de carbono gratuitos para la industria pesada.
-  source: EUROPE SAYS
-  url: https://www.europesays.com/3373408/
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Sailors_conduct_maintenance_on_a_jet_engine_in_the_hangar_bay_of_USS_Dwight_D._Eisenhower._%2825686253733%29.jpg/1280px-Sailors_conduct_maintenance_on_a_jet_engine_in_the_hangar_bay_of_USS_Dwight_D._Eisenhower._%2825686253733%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Official U.S. Navy Page from United States of Amer · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Sailors_conduct_maintenance_on_a_jet_engine_in_the_hangar_bay_of_USS_Dwight_D._Eisenhower._(25686253733).jpg
+    query: fighter jet hangar
+- title: Grecia aprueba su mayor paquete de alivio fiscal desde la crisis de la deuda
+  source: iefimerida
+  url: https://www.iefimerida.gr/english/austerity-handouts-greece-passes-its-biggest-tax-relief-package-debt-crisis
   good: false
   trending: false
   why: ''
-  cat: CLIMATE
+  cat: ECONOMY
   visual:
     type: map
-    country: Belgium
-    place: Bruselas
-    lat: 50.8503
-    lon: 4.3517
-    span: 25
+    country: Greece
+    place: Atenas
+    lat: 37.9838
+    lon: 23.7275
+    span: 12
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebensburg_Smokestacks_%2829870326123%29.jpg/1280px-Ebensburg_Smokestacks_%2829870326123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Tony Webster from Minneapolis, Minnesota · CC BY-SA 2.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Ebensburg_Smokestacks_(29870326123).jpg
-    query: industrial smokestacks
-- title: El patriarca del clan berlinés Issa Remmo asiste a un evento del Parlamento Europeo como invitado especial.
-  source: Euronews
-  url: https://www.euronews.com/2026/11/13/berlin-clan-boss-issa-remmo-appears-as-state-guest-at-eu-parliament-event
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Detail_main_facade_Building_of_Parliament_of_Greece_Athens.jpg/1280px-Detail_main_facade_Building_of_Parliament_of_Greece_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Jebulon · CC0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Detail_main_facade_Building_of_Parliament_of_Greece_Athens.jpg
+    query: greek parliament building
+  chart_check:
+    result: 'not used: one number without a change — the count-up number is used instead'
+- title: Grecia da semanas a los gigantes tecnológicos para apartar a los menores de 15 años de las redes sociales
+  source: iefimerida
+  url: https://www.iefimerida.gr/english/greece-gives-tech-giants-weeks-prove-they-can-keep-children-under-15-social-media
+  good: false
+  trending: false
+  why: Los menores de 15 años se enfrentan a nuevas restricciones en las redes sociales.
+  cat: TECH
+  visual:
+    type: map
+    country: Greece
+    place: Atenas
+    lat: 37.9838
+    lon: 23.7275
+    span: 12
+  photo:
+    url: https://live.staticflickr.com/3838/15075782098_4902983cf5_b.jpg
+    credit: Wonderlane · CC BY 2.0 · Flickr
+    page: https://www.flickr.com/photos/71401718@N00/15075782098
+    query: smartphone screen kids
+- title: El Barcelona sufre un revés al regresar lesionado su jugador estrella de los compromisos internacionales
+  source: Yardbarker
+  url: https://www.yardbarker.com/soccer/articles/new_setback_barcelona_star_returns_to_flicks_squad_injured/s1_17790_44560328
   good: false
   trending: false
   why: ''
-  cat: SOCIETY
+  cat: SPORT
   visual:
     type: map
-    country: Belgium
-    place: Parlamento Europeo
-    lat: 50.8429
-    lon: 4.3734
+    country: Spain
+    place: Barcelona
+    lat: 41.3851
+    lon: 2.1734
     span: 3
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Diliff · CC BY-SA 3.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg
-    query: European Parliament building
-- title: Los legisladores instan al Parlamento Europeo a intensificar el apoyo a Groenlandia ante las crecientes amenazas.
-  source: EUROPE SAYS
-  url: https://www.europesays.com/3371529/
-  good: false
-  trending: false
-  why: ''
-  cat: WORLD
-  visual:
-    type: map
-    country: Greenland
-    place: Nuuk
-    lat: 64.1836
-    lon: -51.7216
-    span: 25
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Major_Greenland_Glacier_Is_Growing.jpeg/1280px-Major_Greenland_Glacier_Is_Growing.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: NASA Earth Observatory images by Joshua Stevens, u · Public domain · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Major_Greenland_Glacier_Is_Growing.jpeg
-    query: Greenland glacier
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/View_of_August_27th_Stadium_Football_Pitch%2C_Damaturu%2C_Yobe_State.jpg/1280px-View_of_August_27th_Stadium_Football_Pitch%2C_Damaturu%2C_Yobe_State.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Escanor247 · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:View_of_August_27th_Stadium_Football_Pitch,_Damaturu,_Yobe_State.jpg
+    query: football stadium pitch
