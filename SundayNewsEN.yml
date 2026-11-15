@@ -1,8 +1,93 @@
-date: 2026-11-08
+date: 2026-11-15
 day: Sunday
 news:
-  - title: "Wave of bomb threats across Europe fuels fears of hybrid warfare"
-  - title: "Meet the 15-year-old student who built a supersonic wind tunnel and won a major science prize"
-  - title: "Indian workers and students face new hurdles as Lithuania tightens visa rules"
-  - title: "Drug-resistant superbugs are becoming a growing threat across Europe"
-  - title: "Poland in shock after six people are killed in a Krakow mass shooting"
+- title: Zelenskyy warns a US-backed European security plan could actually help Putin.
+  source: The Oregonian
+  url: https://www.oregonlive.com/nation/2026/11/european-security-framework-floated-by-us-could-benefit-putin-zelenskyy-says.html
+  good: false
+  trending: false
+  why: It affects future European stability and American security commitments.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: Ukraine
+    place: Kyiv
+    lat: 50.4501
+    lon: 30.5234
+    span: 25
+- title: These images reveal how an Iran terror suspect planned attacks in the UK.
+  source: The i Paper
+  url: https://inews.co.uk/news/images-show-iran-terror-suspect-plotted-attacks-uk-4901425
+  good: false
+  trending: false
+  why: It directly impacts public safety and domestic counter-terrorism measures.
+  cat: JUSTICE
+  visual:
+    type: map
+    country: United Kingdom
+    place: London
+    lat: 51.5074
+    lon: -0.1278
+    span: 12
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pole_with_surveillance_camera_and_kill_switch.jpg/1280px-Pole_with_surveillance_camera_and_kill_switch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Syced · CC0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Pole_with_surveillance_camera_and_kill_switch.jpg
+    query: surveillance camera
+- title: The EU just agreed on new free carbon permits for heavy industry.
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3373408/
+  good: false
+  trending: false
+  why: ''
+  cat: CLIMATE
+  visual:
+    type: map
+    country: Belgium
+    place: Brussels
+    lat: 50.8503
+    lon: 4.3517
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebensburg_Smokestacks_%2829870326123%29.jpg/1280px-Ebensburg_Smokestacks_%2829870326123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Tony Webster from Minneapolis, Minnesota · CC BY-SA 2.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Ebensburg_Smokestacks_(29870326123).jpg
+    query: industrial smokestacks
+- title: Berlin clan boss Issa Remmo attends an EU Parliament event as a special guest.
+  source: Euronews
+  url: https://www.euronews.com/2026/11/13/berlin-clan-boss-issa-remmo-appears-as-state-guest-at-eu-parliament-event
+  good: false
+  trending: false
+  why: ''
+  cat: SOCIETY
+  visual:
+    type: map
+    country: Belgium
+    place: European Parliament
+    lat: 50.8429
+    lon: 4.3734
+    span: 3
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Diliff · CC BY-SA 3.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg
+    query: European Parliament building
+- title: Lawmakers are urging the EU Parliament to step up support for Greenland amid growing threats.
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3371529/
+  good: false
+  trending: false
+  why: ''
+  cat: WORLD
+  visual:
+    type: map
+    country: Greenland
+    place: Nuuk
+    lat: 64.1836
+    lon: -51.7216
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Major_Greenland_Glacier_Is_Growing.jpeg/1280px-Major_Greenland_Glacier_Is_Growing.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: NASA Earth Observatory images by Joshua Stevens, u · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Major_Greenland_Glacier_Is_Growing.jpeg
+    query: Greenland glacier

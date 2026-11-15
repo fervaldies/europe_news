@@ -1,0 +1,93 @@
+date: 2026-11-15
+day: Sunday
+news:
+- title: Zelenskyy alerta que plano de segurança europeu apoiado pelos EUA pode ajudar Putin.
+  source: The Oregonian
+  url: https://www.oregonlive.com/nation/2026/11/european-security-framework-floated-by-us-could-benefit-putin-zelenskyy-says.html
+  good: false
+  trending: false
+  why: Afeta a futura estabilidade europeia e os compromissos de segurança americana.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: Ukraine
+    place: Kiev
+    lat: 50.4501
+    lon: 30.5234
+    span: 25
+- title: Estas imagens revelam como suspeito de terrorismo do Irã planejou ataques no Reino Unido.
+  source: The i Paper
+  url: https://inews.co.uk/news/images-show-iran-terror-suspect-plotted-attacks-uk-4901425
+  good: false
+  trending: false
+  why: Impacta diretamente a segurança pública e as medidas antiterroristas domésticas.
+  cat: JUSTICE
+  visual:
+    type: map
+    country: United Kingdom
+    place: Londres
+    lat: 51.5074
+    lon: -0.1278
+    span: 12
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pole_with_surveillance_camera_and_kill_switch.jpg/1280px-Pole_with_surveillance_camera_and_kill_switch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Syced · CC0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Pole_with_surveillance_camera_and_kill_switch.jpg
+    query: surveillance camera
+- title: UE acaba de aprovar novas licenças de carbono gratuitas para a indústria pesada.
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3373408/
+  good: false
+  trending: false
+  why: ''
+  cat: CLIMATE
+  visual:
+    type: map
+    country: Belgium
+    place: Bruxelas
+    lat: 50.8503
+    lon: 4.3517
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebensburg_Smokestacks_%2829870326123%29.jpg/1280px-Ebensburg_Smokestacks_%2829870326123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Tony Webster from Minneapolis, Minnesota · CC BY-SA 2.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Ebensburg_Smokestacks_(29870326123).jpg
+    query: industrial smokestacks
+- title: Chefe de clã de Berlim, Issa Remmo, comparece a evento no Parlamento Europeu como convidado especial.
+  source: Euronews
+  url: https://www.euronews.com/2026/11/13/berlin-clan-boss-issa-remmo-appears-as-state-guest-at-eu-parliament-event
+  good: false
+  trending: false
+  why: ''
+  cat: SOCIETY
+  visual:
+    type: map
+    country: Belgium
+    place: Parlamento Europeu
+    lat: 50.8429
+    lon: 4.3734
+    span: 3
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Diliff · CC BY-SA 3.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg
+    query: European Parliament building
+- title: Parlamentares instam o Parlamento Europeu a intensificar apoio à Groenlândia em meio a crescentes ameaças.
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3371529/
+  good: false
+  trending: false
+  why: ''
+  cat: WORLD
+  visual:
+    type: map
+    country: Greenland
+    place: Nuuk
+    lat: 64.1836
+    lon: -51.7216
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Major_Greenland_Glacier_Is_Growing.jpeg/1280px-Major_Greenland_Glacier_Is_Growing.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: NASA Earth Observatory images by Joshua Stevens, u · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Major_Greenland_Glacier_Is_Growing.jpeg
+    query: Greenland glacier
