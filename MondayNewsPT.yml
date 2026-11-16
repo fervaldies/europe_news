@@ -1,8 +1,124 @@
 date: 2026-11-09
 day: Monday
 news:
-  - title: "Procurando remédio na Europa? Nem todo resultado do Google é o que parece."
-  - title: "Ministro francês diz que europeus participarão de conversas sobre a Ucrânia nos Emirados Árabes Unidos."
-  - title: "Vazamento de dados revela até 450 mil mortes russas, tornando-se o conflito mais mortal desde a Segunda Guerra Mundial."
-  - title: "O governo enfrenta guerra híbrida após ciberataques, alarmes de voo e vazamentos de dados."
-  - title: "Bolsas europeias e asiáticas despencam enquanto onda de venda de IA abala mercados dos EUA."
+- title: Procurando remédio na Europa? Nem todo resultado do Google é o que parece.
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3378147/
+  good: false
+  trending: false
+  why: Os algoritmos ditam quais criadores culturais europeus alcançam o público e obtêm rendimento.
+  cat: TECH
+  visual:
+    type: icon
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/James_McNeill_Whistler_-_Caprice_in_Purple_and_Gold-_The_Golden_Screen_-_Google_Art_Project.jpg/1280px-James_McNeill_Whistler_-_Caprice_in_Purple_and_Gold-_The_Golden_Screen_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: James McNeill Whistler · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:James_McNeill_Whistler_-_Caprice_in_Purple_and_Gold-_The_Golden_Screen_-_Google_Art_Project.jpg
+    query: digital art screen
+  chart_check:
+    result: 'not used: 90000 isn''t in the article; 0 isn''t in the article'
+- title: Ministro francês diz que europeus participarão de conversas sobre a Ucrânia nos Emirados Árabes Unidos.
+  source: Hindustan Times
+  url: https://www.hindustantimes.com/world-news/zelensky-to-meet-european-allies-to-discuss-common-position-on-ending-russia-ukraine-war-101794776145319.html
+  good: false
+  trending: false
+  why: As decisões diplomáticas moldam diretamente a estabilidade e a segurança das fronteiras europeias.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: Ukraine
+    place: Kiev
+    lat: 50.4501
+    lon: 30.5234
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bangladesh_Flag_%26_Parliament_Building.jpg/1280px-Bangladesh_Flag_%26_Parliament_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Gary Todd · CC0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Bangladesh_Flag_%26_Parliament_Building.jpg
+    query: parliament building flag
+- title: Vazamento de dados revela até 450 mil mortes russas, tornando-se o conflito mais mortal desde a Segunda Guerra Mundial.
+  source: Proto Thema
+  url: https://en.protothema.gr/2026/11/15/gsi-cable-project-resumes-as-turkey-stages-symbolic-naval-protest-and-france-brokers-diplomatic-arrangement/
+  good: false
+  trending: false
+  why: ''
+  cat: BUSINESS
+  visual:
+    type: map
+    country: Turkey
+    place: Ancara
+    lat: 39.9334
+    lon: 32.8597
+    span: 12
+    country2: France
+    place2: Paris
+    lat2: 48.8566
+    lon2: 2.3522
+    span2: 12
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Submarine_Cable_Breaks_at_Valdez.png/1280px-Submarine_Cable_Breaks_at_Valdez.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Lt. Paul Hurst · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Submarine_Cable_Breaks_at_Valdez.png
+    query: submarine cable ship
+- title: O governo enfrenta guerra híbrida após ciberataques, alarmes de voo e vazamentos de dados.
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3377537/
+  good: false
+  trending: false
+  why: ''
+  cat: ECONOMY
+  visual:
+    type: map
+    country: Greece
+    place: Atenas
+    lat: 37.9838
+    lon: 23.7275
+    span: 12
+  photo:
+    url: https://upload.wikimedia.org/wikipedia/commons/b/b8/Columns_on_the_facade_of_the_Old_Supreme_Court_Building%2C_Singapore_-_20080801.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: Jacklee · CC BY-SA 3.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Columns_on_the_facade_of_the_Old_Supreme_Court_Building,_Singapore_-_20080801.JPG
+    query: court building columns
+- title: Bolsas europeias e asiáticas despencam enquanto onda de venda de IA abala mercados dos EUA.
+  source: Daily Express
+  url: https://www.express.co.uk/travel/articles/2265281/greece-cheap-holiday-alert-price-winter-breaks-nosedive
+  good: false
+  trending: false
+  why: ''
+  cat: ECONOMY
+  visual:
+    type: chart
+    chart: bars
+    unit: '%'
+    prefix: ''
+    decimals: 1
+    source: AirDNA
+    hedge: false
+    title_en: Winter price drop by country
+    so_what_en: Largest winter price drop across 38 European countries
+    labels_en:
+    - Greece
+    - Montenegro
+    - Albania
+    values:
+    - 43.3
+    - 35.1
+    - 33.8
+    title_pt: Queda de preços no inverno por país
+    labels_pt:
+    - Grécia
+    - Montenegro
+    - Albânia
+    so_what_pt: Maior queda de preços no inverno em 38 países europeus
+    fallback:
+      type: number
+      number: '372'
+      label: libras mais barato
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Vue_prise_au_Passage_de_Murren_%28BM_1958%2C0712.1154%29.jpg/1280px-Vue_prise_au_Passage_de_Murren_%28BM_1958%2C0712.1154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Print made by: Heinrich Fischer Print made by: Cas · Public domain · Wikimedia Commons'
+    page: https://commons.wikimedia.org/wiki/File:Vue_prise_au_Passage_de_Murren_(BM_1958,0712.1154).jpg
+    query: snowy mountain chalet
+  chart_check:
+    result: ok
+    template: bars
