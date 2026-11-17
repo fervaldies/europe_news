@@ -2,57 +2,117 @@ date: 2026-11-10
 day: Tuesday
 news:
 - title: Rusia dan Ukraina Bersiap Gelar Perundingan Damai yang Didukung AS
-  why: ''
-  source: The Globe and Mail
-  url: https://www.theglobeandmail.com/world/article-russia-ukraine-war-peace-talks-2/
+  why: Pembicaraan damai berdampak pada stabilitas regional dan risiko perang yang lebih luas.
+  source: Al Jazeera
+  url: https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates
   cat: CONFLICT
   good: false
   visual:
-    type: icon
+    type: map
+    country: Ukraine
+    place: Kyiv
+    lat: 50.4501
+    lon: 30.5234
+    span: 12
+  trending: false
 - title: Amundi Bawa Saham Eropa ke Ethereum dengan Ketentuan Akses Masih Dirahasiakan
   why: ''
-  source: CryptoSlate
-  url: https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/
+  source: Times Now
+  url: https://www.timesnownews.com/world/europe/russia-ukraine-war-latest-updates-kyiv-northern-southern-bridges-dnipro-river-attack-article-156521951
+  cat: CONFLICT
+  good: false
+  visual:
+    type: map
+    country: Ukraine
+    place: Kyiv
+    lat: 50.4501
+    lon: 30.5234
+    span: 6
+    country2: Ukraine
+    place2: Krimea
+    lat2: 44.9521
+    lon2: 34.1024
+  trending: false
+  photo:
+    url: https://upload.wikimedia.org/wikipedia/commons/b/b4/Damaged_wall_at_Wyther_Lane_bridge_-_geograph.org.uk_-_5234194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: Stephen Craven · CC BY-SA 2.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Damaged_wall_at_Wyther_Lane_bridge_-_geograph.org.uk_-_5234194.jpg
+    query: damaged city bridge
+- title: Pusat Data Eropa Hadapi Protes Seiring Ekspansi AI Sentuh Politik AS
+  why: ''
+  source: PerthNow
+  url: https://www.perthnow.com.au/news/politics/brexit-has-been-a-flop-says-uk-leader-andy-burnham-c-23171192
+  cat: POLITICS
+  good: false
+  visual:
+    type: chart
+    chart: donut
+    unit: '%'
+    prefix: ''
+    decimals: 0
+    source: BBC
+    hedge: false
+    title_en: Brexit referendum vote
+    labels_en:
+    - Leaving the EU
+    - Staying in
+    values:
+    - 52
+    - 48
+    title_id: Pemungutan suara referendum Brexit
+    labels_id:
+    - Keluar dari UE
+    - Tetap tinggal
+    fallback:
+      type: map
+      country: United Kingdom
+      place: London
+      lat: 51.5074
+      lon: -0.1278
+      span: 12
+  trending: false
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg/1280px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Colin · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg
+    query: Westminster Parliament building
+  chart_check:
+    result: ok
+    template: donut
+- title: Anggota Parlemen Eropa Desak Belgia Evakuasi Pemegang Visa Gaza di Tengah Banjir Musim Dingin yang Parah
+  why: ''
+  source: Euronews
+  url: https://www.euronews.com/2026/11/16/sanchez-and-lula-meet-in-madrid-to-strengthen-ties-amid-threat-of-the-far-right
+  cat: POLITICS
+  good: false
+  visual:
+    type: map
+    country: Spain
+    place: Madrid
+    lat: 40.4168
+    lon: -3.7038
+    span: 12
+    country2: Brazil
+    place2: Brasilia
+    lat2: -15.8267
+    lon2: -47.9218
+  trending: false
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Warsaw_2023_215_Krasinski_Palace_Facade_Sculptures.jpg/1280px-Warsaw_2023_215_Krasinski_Palace_Facade_Sculptures.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Scotch Mist · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Warsaw_2023_215_Krasinski_Palace_Facade_Sculptures.jpg
+    query: government palace facade
+- title: Arti Kebuntuan Anggaran Belgia bagi Negara Tersebut
+  why: ''
+  source: Gizmodo
+  url: https://gizmodo.com/tesla-wants-to-build-1-million-cybercabs-in-europe-theres-just-one-problem-2000840704
   cat: BUSINESS
   good: false
   visual:
     type: icon
-- title: Pusat Data Eropa Hadapi Protes Seiring Ekspansi AI Sentuh Politik AS
-  why: Ekspansi AI berdampak langsung pada sumber daya lokal dan jaringan listrik.
-  source: Natural News
-  url: https://www.naturalnews.com/2026-11-09-data-centers-europe-face-protests-ai-growth.html
-  cat: TECH
-  good: false
-  visual:
-    type: map
-    country: United States of America
-    place: Amerika Serikat
-    lat: 38.8951
-    lon: -77.0364
-    span: 25
-- title: Anggota Parlemen Eropa Desak Belgia Evakuasi Pemegang Visa Gaza di Tengah Banjir Musim Dingin yang Parah
-  why: Keputusan kebijakan internasional memengaruhi respons krisis kemanusiaan regional.
-  source: EUobserver
-  url: https://euobserver.com/247914/meps-demand-belgium-evacuate-visa-holders-from-gaza-as-winter-flooding-makes-life-catastrophic/
-  cat: WORLD
-  good: false
-  visual:
-    type: map
-    country: Belgium
-    place: Belgia
-    lat: 50.8503
-    lon: 4.3517
-    span: 5
-- title: Arti Kebuntuan Anggaran Belgia bagi Negara Tersebut
-  why: ''
-  source: EUobserver
-  url: https://euobserver.com/247741/listen-what-does-belgiums-budget-deadlock-mean-for-the-country/
-  cat: ECONOMY
-  good: false
-  visual:
-    type: map
-    country: Belgium
-    place: Belgia
-    lat: 50.8503
-    lon: 4.3517
-    span: 5
+  trending: false
+  photo:
+    url: https://upload.wikimedia.org/wikipedia/commons/a/ab/ELECTRIC_TAXI_%283411766902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: KNOW MALTA by Peter Grima · CC BY-SA 2.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:ELECTRIC_TAXI_(3411766902).jpg
+    query: electric taxi car

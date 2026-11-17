@@ -1,58 +1,114 @@
-date: 2026-11-10
+date: 2026-11-17
 day: Tuesday
 news:
-- title: Russia and Ukraine set for US-backed peace talks
-  why: ''
-  source: The Globe and Mail
-  url: https://www.theglobeandmail.com/world/article-russia-ukraine-war-peace-talks-2/
+- title: Ukraine holds peace talks with the US and Europe as the conflict escalates.
+  source: Al Jazeera
+  url: https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates
+  good: false
+  trending: false
+  why: Peace talks impact regional stability and the risk of wider war.
   cat: CONFLICT
-  good: false
   visual:
-    type: icon
-- title: Amundi brings European stocks to Ethereum with access terms still under wraps
+    type: map
+    country: Ukraine
+    place: Kyiv
+    lat: 50.4501
+    lon: 30.5234
+    span: 12
+- title: Russia hits Kyiv bridges in a massive missile attack after Ukraine strikes Crimea.
+  source: Times Now
+  url: https://www.timesnownews.com/world/europe/russia-ukraine-war-latest-updates-kyiv-northern-southern-bridges-dnipro-river-attack-article-156521951
+  good: false
+  trending: false
   why: ''
-  source: CryptoSlate
-  url: https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/
+  cat: CONFLICT
+  visual:
+    type: map
+    country: Ukraine
+    place: Kyiv
+    lat: 50.4501
+    lon: 30.5234
+    span: 6
+    country2: Ukraine
+    place2: Crimea
+    lat2: 44.9521
+    lon2: 34.1024
+  photo:
+    url: https://upload.wikimedia.org/wikipedia/commons/b/b4/Damaged_wall_at_Wyther_Lane_bridge_-_geograph.org.uk_-_5234194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: Stephen Craven · CC BY-SA 2.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Damaged_wall_at_Wyther_Lane_bridge_-_geograph.org.uk_-_5234194.jpg
+    query: damaged city bridge
+- title: UK leader Andy Burnham says Brexit has been a total failure.
+  source: PerthNow
+  url: https://www.perthnow.com.au/news/politics/brexit-has-been-a-flop-says-uk-leader-andy-burnham-c-23171192
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
+  visual:
+    type: chart
+    chart: donut
+    unit: '%'
+    prefix: ''
+    decimals: 0
+    source: BBC
+    hedge: false
+    title_en: Brexit referendum vote
+    labels_en:
+    - Leaving the EU
+    - Staying in
+    values:
+    - 52
+    - 48
+    fallback:
+      type: map
+      country: United Kingdom
+      place: London
+      lat: 51.5074
+      lon: -0.1278
+      span: 12
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg/1280px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Colin · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg
+    query: Westminster Parliament building
+  chart_check:
+    result: ok
+    template: donut
+- title: Sanchez and Lula meet in Madrid to strengthen ties against far-right threats.
+  source: Euronews
+  url: https://www.euronews.com/2026/11/16/sanchez-and-lula-meet-in-madrid-to-strengthen-ties-amid-threat-of-the-far-right
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
+  visual:
+    type: map
+    country: Spain
+    place: Madrid
+    lat: 40.4168
+    lon: -3.7038
+    span: 12
+    country2: Brazil
+    place2: Brasilia
+    lat2: -15.8267
+    lon2: -47.9218
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Warsaw_2023_215_Krasinski_Palace_Facade_Sculptures.jpg/1280px-Warsaw_2023_215_Krasinski_Palace_Facade_Sculptures.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Scotch Mist · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Warsaw_2023_215_Krasinski_Palace_Facade_Sculptures.jpg
+    query: government palace facade
+- title: Tesla's plan to build 1 million robotaxis faces roadblocks in the EU.
+  source: Gizmodo
+  url: https://gizmodo.com/tesla-wants-to-build-1-million-cybercabs-in-europe-theres-just-one-problem-2000840704
+  good: false
+  trending: false
+  why: ''
   cat: BUSINESS
-  good: false
   visual:
     type: icon
-- title: European data centers face protests as AI expansion hits US politics
-  why: AI expansion directly impacts local resources and power grids.
-  source: Natural News
-  url: https://www.naturalnews.com/2026-11-09-data-centers-europe-face-protests-ai-growth.html
-  cat: TECH
-  good: false
-  visual:
-    type: map
-    country: United States of America
-    place: United States
-    lat: 38.8951
-    lon: -77.0364
-    span: 25
-- title: MEPs urge Belgium to evacuate Gaza visa holders amid catastrophic winter floods
-  why: International policy decisions affect regional humanitarian crisis responses.
-  source: EUobserver
-  url: https://euobserver.com/247914/meps-demand-belgium-evacuate-visa-holders-from-gaza-as-winter-flooding-makes-life-catastrophic/
-  cat: WORLD
-  good: false
-  visual:
-    type: map
-    country: Belgium
-    place: Belgium
-    lat: 50.8503
-    lon: 4.3517
-    span: 5
-- title: What Belgium's budget deadlock means for the country
-  why: ''
-  source: EUobserver
-  url: https://euobserver.com/247741/listen-what-does-belgiums-budget-deadlock-mean-for-the-country/
-  cat: ECONOMY
-  good: false
-  visual:
-    type: map
-    country: Belgium
-    place: Belgium
-    lat: 50.8503
-    lon: 4.3517
-    span: 5
+  photo:
+    url: https://upload.wikimedia.org/wikipedia/commons/a/ab/ELECTRIC_TAXI_%283411766902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: KNOW MALTA by Peter Grima · CC BY-SA 2.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:ELECTRIC_TAXI_(3411766902).jpg
+    query: electric taxi car
