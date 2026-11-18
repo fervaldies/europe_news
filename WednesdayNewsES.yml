@@ -1,63 +1,80 @@
-date: 2026-11-12
+date: 2026-11-18
 day: Wednesday
 news:
-- title: El jefe de ciberseguridad de la UE advierte que los electrodomésticos podrían ser el próximo objetivo tras los ataques a frigoríficos
-  source: The Star
-  url: https://www.thestar.com.my/tech/tech-news/2026/11/11/after-fridge-hacks-home-appliances-could-be-next-warns-eu-cyber-chief
+- title: La carrera de Europa por el gas natural licuado está provocando grandes trastornos en los mercados asiáticos
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3382622/
   good: false
-  trending: true
+  trending: false
   why: ''
-  cat: TECH
+  cat: ENERGY
+  visual:
+    type: chart
+    chart: donut
+    unit: '%'
+    prefix: ''
+    decimals: 0
+    source: Gas Infrastructure Europe
+    hedge: false
+    title_en: EU gas storage filling level
+    labels_en:
+    - Full
+    - Empty
+    values:
+    - 70
+    - 30
+    title_es: Nivel de llenado del almacenamiento de gas de la UE
+    labels_es:
+    - Lleno
+    - Vacío
+    fallback:
+      type: icon
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_%28LNG%29_for_Transport_%2823647734200%29.jpg/1280px-Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_%28LNG%29_for_Transport_%2823647734200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: U.S. Government Accountability Office from Washing · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_(LNG)_for_Transport_(23647734200).jpg
+    query: liquefied natural gas
+  chart_check:
+    result: ok
+    template: donut
+- title: El repentino impulso de Trump sobre Ucrania deja a los líderes europeos en una situación difícil
+  source: The Japan Times
+  url: https://www.japantimes.co.jp/news/2026/11/18/world/politics/trump-ukraine-push-europe/
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
   visual:
     type: icon
-- title: El primer ministro francés promete una presencia policial masiva para las próximas protestas
-  source: CNA
-  url: https://www.channelnewsasia.com/world/france-protest-riots-fire-paris-ban-6476071
+- title: Europa necesita una electrificación más rápida para competir con China, advierte el comisario europeo de Clima
+  source: Euronews
+  url: https://www.euronews.com/2026/11/17/eu-climate-chief-hoekstra-electrification-key-for-europe-to-compete-with-china-as-cop-push
+  good: false
+  trending: false
+  why: Una electrificación más rápida afecta a las facturas energéticas locales y a la seguridad del empleo industrial.
+  cat: CLIMATE
+  visual:
+    type: icon
+- title: Los derechos humanos no deben dejarse de lado en las medidas drásticas contra la inmigración, advierte el jefe del Consejo de Europa
+  source: Euronews
+  url: https://www.euronews.com/2026/11/17/council-of-europe-chief-berset-warns-against-sidelining-human-rights-in-migration-crackdow
+  good: false
+  trending: false
+  why: ''
+  cat: SOCIETY
+  visual:
+    type: icon
+- title: La seguridad fronteriza y el gas argelino están en juego en las cruciales elecciones en España
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/11/16/english-edition/spains-election-ceuta-at-the-border-algerian-gas-at-stake-who-holds-the-real-power/
   good: false
   trending: false
   why: ''
   cat: POLITICS
-  visual:
-    type: map
-    country: France
-    place: Francia
-    lat: 46.603354
-    lon: 1.888334
-    span: 12
-- title: Merz se niega a ceder, califica a su partido de cortafuegos contra la AfD y advierte que el futuro de Alemania está en juego
-  source: Pagenews.gr
-  url: https://www.pagenews.gr/2026/10/15/english-edition/merz-defies-political-pressure-we-are-the-firewall-against-the-afd-and-germanys-future-is-at-stake/
-  good: false
-  trending: false
-  why: La estabilidad política y el futuro de Alemania dependen de las decisiones de los líderes de los partidos.
-  cat: POLITICS
-  visual:
-    type: map
-    country: Germany
-    place: Alemania
-    lat: 51.165691
-    lon: 10.451526
-    span: 25
-- title: España se sitúa como la economía avanzada grande de mayor crecimiento por tercer año consecutivo
-  source: Majorca Daily Bulletin
-  url: https://www.majorcadailybulletin.com/news/local/2026/10/13/146559/spain-ranked-the-fastest-growing-major-advanced-economy-for-the-third-year-running.html
-  good: false
-  trending: false
-  why: El crecimiento económico afecta directamente a las tasas de empleo y al nivel de vida en España.
-  cat: ECONOMY
   visual:
     type: map
     country: Spain
     place: España
-    lat: 40.463667
-    lon: -3.74922
+    lat: 40.4637
+    lon: -3.7492
     span: 25
-- title: La ultraderecha europea se distancia de Trump y culpa a la guerra de Irán de las pérdidas republicanas
-  source: The Straits Times
-  url: https://www.straitstimes.com/world/europe/european-far-right-distances-itself-from-trump-blaming-iran-war-for-republicans-defeat
-  good: false
-  trending: false
-  why: ''
-  cat: POLITICS
-  visual:
-    type: icon

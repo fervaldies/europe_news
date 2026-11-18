@@ -2,62 +2,79 @@ date: 2026-11-12
 day: Wednesday
 news:
 - title: Chefe cibernética da UE alerta que eletrodomésticos podem ser o próximo alvo após ataques a geladeiras
-  source: The Star
-  url: https://www.thestar.com.my/tech/tech-news/2026/11/11/after-fridge-hacks-home-appliances-could-be-next-warns-eu-cyber-chief
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3382622/
   good: false
   trending: true
   why: ''
-  cat: TECH
+  cat: ENERGY
   visual:
-    type: icon
+    type: chart
+    chart: donut
+    unit: '%'
+    prefix: ''
+    decimals: 0
+    source: Gas Infrastructure Europe
+    hedge: false
+    title_en: EU gas storage filling level
+    labels_en:
+    - Full
+    - Empty
+    values:
+    - 70
+    - 30
+    title_pt: Nível de armazenamento de gás da UE
+    labels_pt:
+    - Cheio
+    - Vazio
+    fallback:
+      type: icon
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_%28LNG%29_for_Transport_%2823647734200%29.jpg/1280px-Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_%28LNG%29_for_Transport_%2823647734200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: U.S. Government Accountability Office from Washing · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_(LNG)_for_Transport_(23647734200).jpg
+    query: liquefied natural gas
+  chart_check:
+    result: ok
+    template: donut
 - title: Primeiro-ministro francês promete forte presença policial para protestos iminentes
-  source: CNA
-  url: https://www.channelnewsasia.com/world/france-protest-riots-fire-paris-ban-6476071
+  source: The Japan Times
+  url: https://www.japantimes.co.jp/news/2026/11/18/world/politics/trump-ukraine-push-europe/
   good: false
   trending: false
   why: ''
   cat: POLITICS
   visual:
-    type: map
-    country: France
-    place: França
-    lat: 46.603354
-    lon: 1.888334
-    span: 12
+    type: icon
 - title: Merz recusa-se a recuar, chama seu partido de cordão sanitário contra a AfD e alerta que o futuro da Alemanha está em risco
-  source: Pagenews.gr
-  url: https://www.pagenews.gr/2026/10/15/english-edition/merz-defies-political-pressure-we-are-the-firewall-against-the-afd-and-germanys-future-is-at-stake/
+  source: Euronews
+  url: https://www.euronews.com/2026/11/17/eu-climate-chief-hoekstra-electrification-key-for-europe-to-compete-with-china-as-cop-push
   good: false
   trending: false
-  why: A estabilidade política e o futuro da Alemanha dependem das decisões tomadas pelos líderes partidários.
-  cat: POLITICS
+  why: A eletrificação mais rápida afeta as contas de energia locais e a segurança dos empregos industriais.
+  cat: CLIMATE
   visual:
-    type: map
-    country: Germany
-    place: Alemanha
-    lat: 51.165691
-    lon: 10.451526
-    span: 25
+    type: icon
 - title: Espanha se destaca como a economia avançada de grande porte que mais cresce pelo terceiro ano consecutivo
-  source: Majorca Daily Bulletin
-  url: https://www.majorcadailybulletin.com/news/local/2026/10/13/146559/spain-ranked-the-fastest-growing-major-advanced-economy-for-the-third-year-running.html
+  source: Euronews
+  url: https://www.euronews.com/2026/11/17/council-of-europe-chief-berset-warns-against-sidelining-human-rights-in-migration-crackdow
   good: false
   trending: false
-  why: O crescimento económico afeta diretamente as taxas de emprego e os níveis de vida em Espanha.
-  cat: ECONOMY
+  why: ''
+  cat: SOCIETY
+  visual:
+    type: icon
+- title: Extrema direita europeia se distancia de Trump e culpa guerra com o Irã por derrotas republicanas
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/11/16/english-edition/spains-election-ceuta-at-the-border-algerian-gas-at-stake-who-holds-the-real-power/
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
   visual:
     type: map
     country: Spain
     place: Espanha
-    lat: 40.463667
-    lon: -3.74922
+    lat: 40.4637
+    lon: -3.7492
     span: 25
-- title: Extrema direita europeia se distancia de Trump e culpa guerra com o Irã por derrotas republicanas
-  source: The Straits Times
-  url: https://www.straitstimes.com/world/europe/european-far-right-distances-itself-from-trump-blaming-iran-war-for-republicans-defeat
-  good: false
-  trending: false
-  why: ''
-  cat: POLITICS
-  visual:
-    type: icon

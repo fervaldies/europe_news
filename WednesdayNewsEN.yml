@@ -1,63 +1,76 @@
-date: 2026-11-12
+date: 2026-11-18
 day: Wednesday
 news:
-- title: EU cyber chief warns home appliances could be the next target after fridge hacks
-  source: The Star
-  url: https://www.thestar.com.my/tech/tech-news/2026/11/11/after-fridge-hacks-home-appliances-could-be-next-warns-eu-cyber-chief
+- title: Europe's scramble for liquefied natural gas is causing major disruptions in Asian markets.
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3382622/
   good: false
-  trending: true
+  trending: false
   why: ''
-  cat: TECH
+  cat: ENERGY
+  visual:
+    type: chart
+    chart: donut
+    unit: '%'
+    prefix: ''
+    decimals: 0
+    source: Gas Infrastructure Europe
+    hedge: false
+    title_en: EU gas storage filling level
+    labels_en:
+    - Full
+    - Empty
+    values:
+    - 70
+    - 30
+    fallback:
+      type: icon
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_%28LNG%29_for_Transport_%2823647734200%29.jpg/1280px-Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_%28LNG%29_for_Transport_%2823647734200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: U.S. Government Accountability Office from Washing · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_(LNG)_for_Transport_(23647734200).jpg
+    query: liquefied natural gas
+  chart_check:
+    result: ok
+    template: donut
+- title: Trump's sudden push on Ukraine leaves European leaders in a difficult position.
+  source: The Japan Times
+  url: https://www.japantimes.co.jp/news/2026/11/18/world/politics/trump-ukraine-push-europe/
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
   visual:
     type: icon
-- title: French PM promises a massive police presence for upcoming protests
-  source: CNA
-  url: https://www.channelnewsasia.com/world/france-protest-riots-fire-paris-ban-6476071
+- title: Europe needs faster electrification to compete with China, warns the EU climate chief.
+  source: Euronews
+  url: https://www.euronews.com/2026/11/17/eu-climate-chief-hoekstra-electrification-key-for-europe-to-compete-with-china-as-cop-push
+  good: false
+  trending: false
+  why: Faster electrification affects local energy bills and industrial job security.
+  cat: CLIMATE
+  visual:
+    type: icon
+- title: Human rights must not be sidelined in migration crackdowns, warns Council of Europe chief.
+  source: Euronews
+  url: https://www.euronews.com/2026/11/17/council-of-europe-chief-berset-warns-against-sidelining-human-rights-in-migration-crackdow
+  good: false
+  trending: false
+  why: ''
+  cat: SOCIETY
+  visual:
+    type: icon
+- title: Border security and Algerian gas are at stake in Spain's high-stakes election.
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/11/16/english-edition/spains-election-ceuta-at-the-border-algerian-gas-at-stake-who-holds-the-real-power/
   good: false
   trending: false
   why: ''
   cat: POLITICS
-  visual:
-    type: map
-    country: France
-    place: France
-    lat: 46.603354
-    lon: 1.888334
-    span: 12
-- title: Merz refuses to back down, calling his party a firewall against the AfD and warning Germany's future is at stake
-  source: Pagenews.gr
-  url: https://www.pagenews.gr/2026/10/15/english-edition/merz-defies-political-pressure-we-are-the-firewall-against-the-afd-and-germanys-future-is-at-stake/
-  good: false
-  trending: false
-  why: Germany's political stability and future depend on decisions made by party leaders.
-  cat: POLITICS
-  visual:
-    type: map
-    country: Germany
-    place: Germany
-    lat: 51.165691
-    lon: 10.451526
-    span: 25
-- title: Spain ranks as the fastest-growing major advanced economy for the third consecutive year
-  source: Majorca Daily Bulletin
-  url: https://www.majorcadailybulletin.com/news/local/2026/10/13/146559/spain-ranked-the-fastest-growing-major-advanced-economy-for-the-third-year-running.html
-  good: false
-  trending: false
-  why: Economic growth directly affects employment rates and living standards in Spain.
-  cat: ECONOMY
   visual:
     type: map
     country: Spain
     place: Spain
-    lat: 40.463667
-    lon: -3.74922
+    lat: 40.4637
+    lon: -3.7492
     span: 25
-- title: European far right distances itself from Trump and blames the Iran war for Republican losses
-  source: The Straits Times
-  url: https://www.straitstimes.com/world/europe/european-far-right-distances-itself-from-trump-blaming-iran-war-for-republicans-defeat
-  good: false
-  trending: false
-  why: ''
-  cat: POLITICS
-  visual:
-    type: icon

@@ -1,63 +1,80 @@
-date: 2026-11-12
+date: 2026-11-18
 day: Wednesday
 news:
-- title: Kepala Keamanan Siber UE Peringatkan Peralatan Rumah Tangga Bisa Jadi Target Berikutnya Setelah Peretasan Kulkas
-  source: The Star
-  url: https://www.thestar.com.my/tech/tech-news/2026/11/11/after-fridge-hacks-home-appliances-could-be-next-warns-eu-cyber-chief
+- title: Perebutan gas alam cair di Eropa picu gangguan besar di pasar Asia.
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3382622/
   good: false
-  trending: true
+  trending: false
   why: ''
-  cat: TECH
+  cat: ENERGY
+  visual:
+    type: chart
+    chart: donut
+    unit: '%'
+    prefix: ''
+    decimals: 0
+    source: Gas Infrastructure Europe
+    hedge: false
+    title_en: EU gas storage filling level
+    labels_en:
+    - Full
+    - Empty
+    values:
+    - 70
+    - 30
+    title_id: Tingkat pengisian penyimpanan gas UE
+    labels_id:
+    - Penuh
+    - Kosong
+    fallback:
+      type: icon
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_%28LNG%29_for_Transport_%2823647734200%29.jpg/1280px-Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_%28LNG%29_for_Transport_%2823647734200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: U.S. Government Accountability Office from Washing · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_(LNG)_for_Transport_(23647734200).jpg
+    query: liquefied natural gas
+  chart_check:
+    result: ok
+    template: donut
+- title: Dorongan mendadak Trump soal Ukraina buat pemimpin Eropa dalam posisi sulit.
+  source: The Japan Times
+  url: https://www.japantimes.co.jp/news/2026/11/18/world/politics/trump-ukraine-push-europe/
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
   visual:
     type: icon
-- title: PM Prancis Janjikan Kehadiran Polisi Skala Besar untuk Aksi Protes Mendatang
-  source: CNA
-  url: https://www.channelnewsasia.com/world/france-protest-riots-fire-paris-ban-6476071
+- title: Eropa butuh elektrifikasi lebih cepat untuk bersaing dengan Tiongkok, peringatkan kepala iklim UE.
+  source: Euronews
+  url: https://www.euronews.com/2026/11/17/eu-climate-chief-hoekstra-electrification-key-for-europe-to-compete-with-china-as-cop-push
+  good: false
+  trending: false
+  why: Elektrifikasi yang lebih cepat memengaruhi tagihan energi lokal dan keamanan kerja industri.
+  cat: CLIMATE
+  visual:
+    type: icon
+- title: Hak asasi manusia tak boleh dikesampingkan dalam penindakan migrasi, peringatkan kepala Dewan Eropa.
+  source: Euronews
+  url: https://www.euronews.com/2026/11/17/council-of-europe-chief-berset-warns-against-sidelining-human-rights-in-migration-crackdow
+  good: false
+  trending: false
+  why: ''
+  cat: SOCIETY
+  visual:
+    type: icon
+- title: Keamanan perbatasan dan gas Aljazair dipertaruhkan dalam Pemilu krusial Spanyol.
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/11/16/english-edition/spains-election-ceuta-at-the-border-algerian-gas-at-stake-who-holds-the-real-power/
   good: false
   trending: false
   why: ''
   cat: POLITICS
-  visual:
-    type: map
-    country: France
-    place: Prancis
-    lat: 46.603354
-    lon: 1.888334
-    span: 12
-- title: Merz Tolak Mundur, Sebut Partainya Benteng Pertahanan Melawan AfD dan Peringatkan Masa Depan Jerman Dipertaruhkan
-  source: Pagenews.gr
-  url: https://www.pagenews.gr/2026/10/15/english-edition/merz-defies-political-pressure-we-are-the-firewall-against-the-afd-and-germanys-future-is-at-stake/
-  good: false
-  trending: false
-  why: Stabilitas politik dan masa depan Jerman bergantung pada keputusan yang dibuat oleh para pemimpin partai.
-  cat: POLITICS
-  visual:
-    type: map
-    country: Germany
-    place: Jerman
-    lat: 51.165691
-    lon: 10.451526
-    span: 25
-- title: Spanyol Tempati Peringkat Ekonomi Maju Utama dengan Pertumbuhan Tercepat untuk Tahun Ketiga Berturut-turut
-  source: Majorca Daily Bulletin
-  url: https://www.majorcadailybulletin.com/news/local/2026/10/13/146559/spain-ranked-the-fastest-growing-major-advanced-economy-for-the-third-year-running.html
-  good: false
-  trending: false
-  why: Pertumbuhan ekonomi berdampak langsung pada tingkat lapangan kerja dan standar hidup di Spanyol.
-  cat: ECONOMY
   visual:
     type: map
     country: Spain
     place: Spanyol
-    lat: 40.463667
-    lon: -3.74922
+    lat: 40.4637
+    lon: -3.7492
     span: 25
-- title: Kanan Jauh Eropa Jauhkan Diri dari Trump dan Salahkan Perang Iran atas Kekalahan Partai Republik
-  source: The Straits Times
-  url: https://www.straitstimes.com/world/europe/european-far-right-distances-itself-from-trump-blaming-iran-war-for-republicans-defeat
-  good: false
-  trending: false
-  why: ''
-  cat: POLITICS
-  visual:
-    type: icon
