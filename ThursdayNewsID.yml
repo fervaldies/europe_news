@@ -1,85 +1,83 @@
-date: 2026-11-13
+date: 2026-11-19
 day: Thursday
 news:
-- title: Dakwaan baru ungkap dugaan plot didukung Iran di AS dan Eropa
-  source: PBS News
-  url: https://www.pbs.org/newshour/show/indictment-sheds-light-on-alleged-iran-backed-plots-across-u-s-and-europe
-  good: false
-  trending: false
-  why: Plot asing mengancam keselamatan publik di komunitas di seluruh Amerika.
-  cat: CONFLICT
-  visual:
-    type: map
-    country: United States of America
-    place: Amerika Serikat
-    lat: 39.8283
-    lon: -98.5795
-    span: 25
-    country2: Iran
-    place2: Iran
-    lat2: 32.4279
-    lon2: 53.688
-    span2: 25
-- title: Utusan Trump akan temui Putin saat AS dorong kesepakatan damai Ukraina
-  source: The Tribune
-  url: https://www.tribuneindia.com/news/world/trump-envoys-to-meet-putin-as-us-pushes-ukraine-peace-deal-new-europe-russia-security-framework-reports-axios/
+- title: Xi, Trump, and Putin are set to meet in a historic trilateral summit
+  source: Euronews
+  url: https://www.euronews.com/2026/11/19/europe-today-xi-trump-and-putin-together-in-a-historic-trilateral-meeting
   good: false
   trending: false
   why: ''
   cat: POLITICS
   visual:
+    type: icon
+- title: Migrants fueled Spain's economic boom, but investors now fear anti-immigration policies will stall growth
+  source: Al-Monitor
+  url: https://www.al-monitor.com/originals/2026/11/analysis-migrants-fuelled-spains-boom-now-investors-fear-anti-immigration
+  good: false
+  trending: false
+  why: Tren imigrasi berdampak langsung pada pasar tenaga kerja lokal dan biaya perumahan.
+  cat: ECONOMY
+  visual:
+    type: map
+    country: Spain
+    place: Spain
+    lat: 40.4637
+    lon: -3.7492
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Street_Scene_with_Textured_Facade_-_Madrid_-_Spain.jpg/1280px-Street_Scene_with_Textured_Facade_-_Madrid_-_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Adam Jones, Ph.D. / Adam Jones from Kelowna, BC, C · CC BY-SA 3.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Street_Scene_with_Textured_Facade_-_Madrid_-_Spain.jpg
+    query: Madrid street scene
+- title: Cyprus aims to join the Schengen zone by July 2027
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3384642/
+  good: false
+  trending: false
+  why: ''
+  cat: WORLD
+  visual:
+    type: map
+    country: Cyprus
+    place: Cyprus
+    lat: 35.1264
+    lon: 33.4299
+    span: 12
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Coastline-cyprus_hg.jpg/1280px-Coastline-cyprus_hg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Hannes Grobe/BHV · CC BY 3.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Coastline-cyprus_hg.jpg
+    query: Cyprus coastline
+- title: A court refuses to rescue Ivan Toney from the Euro 2028 crisis
+  source: Yardbarker
+  url: https://www.yardbarker.com/soccer/articles/fresh_shock_court_refuses_to_rescue_ivan_toney_from_euro_2028_crisis/s1_17790_44582629
+  good: false
+  trending: false
+  why: ''
+  cat: SPORT
+  visual:
+    type: icon
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/1280px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: 'Florstein ( Telegram: WikiPhoto.Space ) · CC BY-SA 4.0 · Wikimedia Commons'
+    page: https://commons.wikimedia.org/wiki/File:Petrovskiy_football_stadium_in_SPB.jpg
+    query: football stadium
+- title: The EU proposes a 45 billion euro loan for Ukraine to be repaid by Russia
+  source: NDTV.com
+  url: https://www.ndtv.com/world-news/eu-proposes-45-billion-euro-loan-for-ukraine-to-be-repaid-by-russia-12345740
+  good: false
+  trending: false
+  why: Paket keuangan besar-besaran dari UE memengaruhi utang publik dan stabilitas ekonomi.
+  cat: ECONOMY
+  visual:
     type: map
     country: Ukraine
-    place: Ukraina
+    place: Ukraine
     lat: 48.3794
     lon: 31.1656
-    span: 20
-    country2: Russia
-    place2: Rusia
-    lat2: 61.524
-    lon2: 105.3188
-    span2: 35
-- title: Gelombang besar ancaman bom palsu paksa evakuasi sekolah di Italia, Irlandia, dan Inggris
-  source: The News International
-  url: https://www.thenews.com.pk/latest/1423306-massive-hoax-bomb-threat-wave-evacuates-schools-across-italy-ireland-and-uk
-  good: false
-  trending: false
-  why: ''
-  cat: SOCIETY
-  visual:
-    type: map
-    country: Italy
-    place: Italia
-    lat: 41.8719
-    lon: 12.5674
-    span: 15
-  chart_check:
-    result: 'not used: 200 isn''t in the article; 70 isn''t in the article; a quoted sentence isn''t in the article'
-- title: Di balik perlawanan terhadap undang-undang perumahan diskriminatif Denmark
-  source: EUROPE SAYS
-  url: https://www.europesays.com/3368787/
-  good: false
-  trending: false
-  why: ''
-  cat: JUSTICE
-  visual:
-    type: map
-    country: Denmark
-    place: Denmark
-    lat: 56.2639
-    lon: 9.5018
-    span: 12
-- title: BIR bangun fasilitas biogas energi terbarukan baru di Voss, Norwegia
-  source: EUROPE SAYS
-  url: https://www.europesays.com/3368785/
-  good: false
-  trending: false
-  why: ''
-  cat: ENERGY
-  visual:
-    type: map
-    country: Norway
-    place: Voss
-    lat: 60.6299
-    lon: 6.4172
-    span: 3
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Karlsruhe_Palace_Flag_of_Europe_2025-05-09_01.jpg/1280px-Karlsruhe_Palace_Flag_of_Europe_2025-05-09_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Entbert · CC BY 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Karlsruhe_Palace_Flag_of_Europe_2025-05-09_01.jpg
+    query: European Union flag
