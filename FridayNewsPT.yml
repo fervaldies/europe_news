@@ -1,68 +1,98 @@
-date: 2026-11-13
+date: 2026-11-20
 day: Friday
 news:
-- title: Europa participará de negociações de paz entre Rússia e Ucrânia enquanto Putin mantém postura dura.
-  source: The Manila Times
-  url: https://www.manilatimes.net/2026/11/13/world/americas-emea/us-ukraine-say-europe-to-join-russia-talks-as-putin-sticks-to-hardline-stance/2469216
+- title: O plano do Reino Unido para redefinir as relações com a UE enfrenta obstáculos em meio a veículos elétricos chineses
+  source: The Japan Times
+  url: https://www.japantimes.co.jp/business/2026/11/20/uk-eu-china-ev/
   good: false
   trending: false
-  why: A Europa participar nas negociações de paz pode acabar com a guerra que afeta a segurança global.
-  cat: POLITICS
+  why: ''
+  cat: BUSINESS
   visual:
     type: map
-    country: Ukraine
-    place: Ucrânia
-    lat: 48.3794
-    lon: 31.1656
-    span: 25
-- title: Zelensky comemora grande vitória após garantir troca de prisioneiros com a Rússia.
-  source: Evening Standard
-  url: https://www.standard.co.uk/news/politics/volodymyr-zelensky-vladimir-putin-jared-kushner-europe-micheal-martin-b1304711.html
+    country: United Kingdom
+    place: Londres
+    lat: 51.5074
+    lon: -0.1278
+    span: 12
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Car2Go_Charging_Station_Stuttgart_2013_01.jpg/1280px-Car2Go_Charging_Station_Stuttgart_2013_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Julian Herzog ( Website ) · CC BY 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Car2Go_Charging_Station_Stuttgart_2013_01.jpg
+    query: electric vehicle charging
+- title: Europa espera participar em breve de novas negociações de paz na Ucrânia, segundo o líder alemão Merz
+  source: Breitbart News Network
+  url: https://www.breitbart.com/news/europe-expects-to-join-new-ukraine-peace-talks-soon-says-merz/
   good: false
   trending: false
-  why: As trocas de prisioneiros reúnem famílias e sinalizam mudanças na guerra em curso.
+  why: ''
   cat: CONFLICT
   visual:
     type: map
-    country: Russia
-    place: Rússia
-    lat: 61.524
-    lon: 105.3188
+    country: Ukraine
+    place: Kiev
+    lat: 50.4501
+    lon: 30.5234
     span: 25
-- title: Bélgica culpa o Irã por onda de ataques cibernéticos contra eletrodomésticos.
-  source: The Straits Times
-  url: https://www.straitstimes.com/world/europe/belgium-says-evidence-points-at-iran-over-fridge-cyberattacks
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Diliff · CC BY-SA 3.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg
+    query: parliament building europe
+- title: Donald Trump exige que a Europa retire o financiamento da Ucrânia em duro ataque a aliados da OTAN
+  source: GB News
+  url: https://www.gbnews.com/news/world/donald-trump-europe-ukraine-blistering-tirade-nato-allies-putin
   good: false
-  trending: false
-  why: ''
-  cat: TECH
-  visual:
-    type: map
-    country: Belgium
-    place: Bélgica
-    lat: 50.5039
-    lon: 4.4699
-    span: 12
-- title: Técnico do Detroit Lions, Dan Campbell, projeta confronto com Patriots, lesões e prazos de trocas antes da Alemanha.
-  source: WDIV ClickOnDetroit
-  url: https://www.clickondetroit.com/sports/2026/11/13/detroit-lions-dan-campbell-talks-patriots-matchup-trade-deadline-injuries-ahead-of-germany-trip/
-  good: false
-  trending: false
-  why: ''
-  cat: SPORT
+  trending: true
+  why: Maiores custos de energia e defesa afetam diretamente os orçamentos familiares.
+  cat: POLITICS
   visual:
     type: map
     country: United States of America
-    place: Detroit
-    lat: 42.3314
-    lon: -83.0458
-    span: 3
-- title: Klopp promete que o meio-campista Nmecha abandonará sua comemoração de gol polêmica.
-  source: ESPN
-  url: https://www.espn.com/soccer/story/_/id/50464524/klopp-nmecha-controversial-crown-celebration
+    place: Washington
+    lat: 38.8951
+    lon: -77.0364
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/NATO%2C_USACE_officials_break_ground_on_new_headquarters_building_%285225286837%29.jpg/1280px-NATO%2C_USACE_officials_break_ground_on_new_headquarters_building_%285225286837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: U.S. Army Corps of Engineers Europe District from  · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:NATO,_USACE_officials_break_ground_on_new_headquarters_building_(5225286837).jpg
+    query: nato headquarters building
+- title: Cortes de empregos no Commerzbank começarão pelo topo, e UniCredit diz que HVB pode ajudar
+  source: MarketScreener
+  url: https://www.marketscreener.com/news/commerzbank-job-cuts-will-start-from-the-top-unicredit-ceo-says-ce785ed2dc81f02d
   good: false
   trending: false
   why: ''
-  cat: SPORT
+  cat: BUSINESS
   visual:
-    type: icon
+    type: map
+    country: Germany
+    place: Frankfurt
+    lat: 50.1109
+    lon: 8.6821
+    span: 3
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bank_Al_Maghrib_Building.jpg/1280px-Bank_Al_Maghrib_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Rachidourkia · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Bank_Al_Maghrib_Building.jpg
+    query: modern bank building
+- title: Nova Gestão de Pastagens e Habitats Conectados Ajudam a Proteger abelhas selvagens na Europa
+  source: Phys.org
+  url: https://phys.org/news/2026-11-wild-bees-europe-calcareous-grassland.html
+  good: true
+  trending: false
+  why: A perda de biodiversidade ameaça diretamente a produção de alimentos e a polinização de culturas.
+  cat: GOOD NEWS
+  visual:
+    type: map
+    country: France
+    place: Europa
+    lat: 54.526
+    lon: 15.2551
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Wildflower_meadow_-_geograph.org.uk_-_8330156.jpg/1280px-Wildflower_meadow_-_geograph.org.uk_-_8330156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: T Eyre · CC BY-SA 2.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Wildflower_meadow_-_geograph.org.uk_-_8330156.jpg
+    query: wildflower meadow field

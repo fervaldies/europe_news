@@ -1,68 +1,98 @@
-date: 2026-11-13
+date: 2026-11-20
 day: Friday
 news:
-- title: Europa se unirá a las conversaciones de paz entre Rusia y Ucrania mientras Putin mantiene una postura inflexible.
-  source: The Manila Times
-  url: https://www.manilatimes.net/2026/11/13/world/americas-emea/us-ukraine-say-europe-to-join-russia-talks-as-putin-sticks-to-hardline-stance/2469216
+- title: El plan del Reino Unido para restablecer las relaciones con la UE se enfrenta a obstáculos por los vehículos eléctricos chinos
+  source: The Japan Times
+  url: https://www.japantimes.co.jp/business/2026/11/20/uk-eu-china-ev/
   good: false
   trending: false
-  why: Que Europa se sume a las conversaciones de paz podría poner fin a la guerra que afecta la seguridad global.
-  cat: POLITICS
+  why: ''
+  cat: BUSINESS
   visual:
     type: map
-    country: Ukraine
-    place: Ucrania
-    lat: 48.3794
-    lon: 31.1656
-    span: 25
-- title: Zelenski celebra una gran victoria tras conseguir un intercambio de prisioneros con Rusia.
-  source: Evening Standard
-  url: https://www.standard.co.uk/news/politics/volodymyr-zelensky-vladimir-putin-jared-kushner-europe-micheal-martin-b1304711.html
+    country: United Kingdom
+    place: Londres
+    lat: 51.5074
+    lon: -0.1278
+    span: 12
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Car2Go_Charging_Station_Stuttgart_2013_01.jpg/1280px-Car2Go_Charging_Station_Stuttgart_2013_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Julian Herzog ( Website ) · CC BY 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Car2Go_Charging_Station_Stuttgart_2013_01.jpg
+    query: electric vehicle charging
+- title: Europa espera unirse pronto a las nuevas conversaciones de paz sobre Ucrania, según el líder alemán Merz
+  source: Breitbart News Network
+  url: https://www.breitbart.com/news/europe-expects-to-join-new-ukraine-peace-talks-soon-says-merz/
   good: false
   trending: false
-  why: Los intercambios de prisioneros reúnen a familias y señalan cambios en la guerra en curso.
+  why: ''
   cat: CONFLICT
   visual:
     type: map
-    country: Russia
-    place: Rusia
-    lat: 61.524
-    lon: 105.3188
+    country: Ukraine
+    place: Kiev
+    lat: 50.4501
+    lon: 30.5234
     span: 25
-- title: Bélgica culpa a Irán de una oleada de ciberataques dirigidos contra electrodomésticos.
-  source: The Straits Times
-  url: https://www.straitstimes.com/world/europe/belgium-says-evidence-points-at-iran-over-fridge-cyberattacks
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Diliff · CC BY-SA 3.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg
+    query: parliament building europe
+- title: Donald Trump exige a Europa que retire la financiación a Ucrania en un duro ataque contra los aliados de la OTAN
+  source: GB News
+  url: https://www.gbnews.com/news/world/donald-trump-europe-ukraine-blistering-tirade-nato-allies-putin
   good: false
-  trending: false
-  why: ''
-  cat: TECH
-  visual:
-    type: map
-    country: Belgium
-    place: Bélgica
-    lat: 50.5039
-    lon: 4.4699
-    span: 12
-- title: El entrenador de los Detroit Lions, Dan Campbell, analiza el choque contra los Patriots, las lesiones y el mercado de fichajes antes de viajar a Alemania.
-  source: WDIV ClickOnDetroit
-  url: https://www.clickondetroit.com/sports/2026/11/13/detroit-lions-dan-campbell-talks-patriots-matchup-trade-deadline-injuries-ahead-of-germany-trip/
-  good: false
-  trending: false
-  why: ''
-  cat: SPORT
+  trending: true
+  why: Los mayores costes de energía y defensa afectan directamente a los presupuestos familiares.
+  cat: POLITICS
   visual:
     type: map
     country: United States of America
-    place: Detroit
-    lat: 42.3314
-    lon: -83.0458
-    span: 3
-- title: Klopp promete que el centrocampista Nmecha dejará atrás su controvertida celebración de gol.
-  source: ESPN
-  url: https://www.espn.com/soccer/story/_/id/50464524/klopp-nmecha-controversial-crown-celebration
+    place: Washington
+    lat: 38.8951
+    lon: -77.0364
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/NATO%2C_USACE_officials_break_ground_on_new_headquarters_building_%285225286837%29.jpg/1280px-NATO%2C_USACE_officials_break_ground_on_new_headquarters_building_%285225286837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: U.S. Army Corps of Engineers Europe District from  · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:NATO,_USACE_officials_break_ground_on_new_headquarters_building_(5225286837).jpg
+    query: nato headquarters building
+- title: Los recortes de empleo en Commerzbank empezarán por la cúpula, y UniCredit afirma que HVB puede ayudar
+  source: MarketScreener
+  url: https://www.marketscreener.com/news/commerzbank-job-cuts-will-start-from-the-top-unicredit-ceo-says-ce785ed2dc81f02d
   good: false
   trending: false
   why: ''
-  cat: SPORT
+  cat: BUSINESS
   visual:
-    type: icon
+    type: map
+    country: Germany
+    place: Fráncfort
+    lat: 50.1109
+    lon: 8.6821
+    span: 3
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bank_Al_Maghrib_Building.jpg/1280px-Bank_Al_Maghrib_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Rachidourkia · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Bank_Al_Maghrib_Building.jpg
+    query: modern bank building
+- title: La nueva gestión de past草原 y los hábitats conectados ayudan a proteger las abejas silvestres en Europa
+  source: Phys.org
+  url: https://phys.org/news/2026-11-wild-bees-europe-calcareous-grassland.html
+  good: true
+  trending: false
+  why: La pérdida de biodiversidad amenaza directamente la producción de alimentos y la polinización de cultivos.
+  cat: GOOD NEWS
+  visual:
+    type: map
+    country: France
+    place: Europa
+    lat: 54.526
+    lon: 15.2551
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Wildflower_meadow_-_geograph.org.uk_-_8330156.jpg/1280px-Wildflower_meadow_-_geograph.org.uk_-_8330156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: T Eyre · CC BY-SA 2.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Wildflower_meadow_-_geograph.org.uk_-_8330156.jpg
+    query: wildflower meadow field
