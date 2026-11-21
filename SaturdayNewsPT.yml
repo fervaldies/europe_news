@@ -1,68 +1,102 @@
-date: 2026-11-14
+date: 2026-11-21
 day: Saturday
 news:
-- title: Estónia apoia Costa e Kallas para conversações de paz na Ucrânia e diz que Putin não escolhe a voz da Europa
-  source: Pagenews.gr
-  url: https://www.pagenews.gr/2026/11/14/english-edition/putin-doesnt-get-to-choose-who-speaks-for-europe-estonia-backs-costa-and-kallas-for-ukraine-peace-talks/
-  good: false
-  trending: true
-  why: Líderes europeus negociam termos que podem impactar diretamente o resultado da guerra.
-  cat: POLITICS
-  visual:
-    type: map
-    country: Estonia
-    place: Tallin
-    lat: 59.437
-    lon: 24.7536
-    span: 3
-- title: UE acorda novas regras para licenças gratuitas de carbono para a indústria pesada
-  source: EUROPE SAYS
-  url: https://www.europesays.com/3373408/
+- title: Macron alerta que Rússia está escalando agressão de forma imprudente pela Europa.
+  source: Proto Thema
+  url: https://en.protothema.gr/2026/11/21/macron-russia-is-escalating-its-aggression-in-europe-and-playing-a-reckless-game/
   good: false
   trending: false
-  why: As regras de emissões industriais afetarão os preços ao consumidor e os empregos na manufatura em toda a Europa.
+  why: A segurança europeia e a estabilidade regional afetam diretamente a segurança diária dos cidadãos.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: France
+    place: Paris
+    lat: 48.8566
+    lon: 2.3522
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Karlsruhe_Palace_Flag_of_Europe_2025-05-09_01.jpg/1280px-Karlsruhe_Palace_Flag_of_Europe_2025-05-09_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Entbert · CC BY 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Karlsruhe_Palace_Flag_of_Europe_2025-05-09_01.jpg
+    query: European Union flag
+- title: OTAN condena mísseis russos que atingiram a Polônia durante manobras militares próximas.
+  source: WTOP
+  url: https://wtop.com/world/2026/11/russian-attacks-on-kyiv-kill-3-cripple-bridges-and-cut-power/
+  good: false
+  trending: false
+  why: Incidentes de segurança nas fronteiras ameaçam a paz regional e a segurança dos cidadãos.
+  cat: CONFLICT
+  visual:
+    type: map
+    country: Poland
+    place: Polônia
+    lat: 51.9194
+    lon: 19.1451
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Disused_military_installation_connected_with_radar_-_geograph.org.uk_-_6001748.jpg/1280px-Disused_military_installation_connected_with_radar_-_geograph.org.uk_-_6001748.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Adrian S Pye · CC BY-SA 2.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Disused_military_installation_connected_with_radar_-_geograph.org.uk_-_6001748.jpg
+    query: military radar installation
+- title: Tribunal holandês proíbe SUV chinês na Europa por parecer demais com um Land Rover.
+  source: MarketScreener
+  url: https://www.marketscreener.com/news/dutch-court-bars-chinese-suv-in-europe-over-resemblance-to-land-rover-defender-ce785ed3dc8af32d
+  good: false
+  trending: false
+  why: ''
   cat: BUSINESS
   visual:
-    type: icon
-- title: Parlamento Europeu enfrenta apelos para reforçar apoio à Gronelândia em meio a crescentes ameaças à soberania
+    type: map
+    country: Netherlands
+    place: Países Baixos
+    lat: 52.1326
+    lon: 5.2913
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Tehran_hosts_the_first_fleet_of_all-electric_SUV_taxis_34_%282025_-_Tehran_Picture_Agency%29.jpg/1280px-Tehran_hosts_the_first_fleet_of_all-electric_SUV_taxis_34_%282025_-_Tehran_Picture_Agency%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Sobhan Farajvan · CC BY 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Tehran_hosts_the_first_fleet_of_all-electric_SUV_taxis_34_(2025_-_Tehran_Picture_Agency).jpg
+    query: modern electric SUV
+- title: UE quer multiplicar fundo da indústria espacial por cinco para impulsionar concorrência.
   source: EUROPE SAYS
-  url: https://www.europesays.com/3371529/
+  url: https://www.europesays.com/3384717/
   good: false
   trending: false
   why: ''
-  cat: WORLD
+  cat: TECH
   visual:
     type: map
-    country: Greenland
-    place: Nuuk
-    lat: 64.1814
-    lon: -51.6941
-    span: 12
-- title: Espanha aprova medidas de habitação após protestos massivos, embora o seu futuro dependa de eleições
-  source: The Atlanta Journal-Constitution
-  url: https://www.ajc.com/news/2026/11/spain-approves-housing-measures-after-huge-protests-their-duration-may-depend-on-the-election/
-  good: false
-  trending: false
-  why: ''
-  cat: SOCIETY
-  visual:
-    type: map
-    country: Spain
-    place: Madri
-    lat: 40.4168
-    lon: -3.7038
-    span: 6
-- title: Primeiro-ministro Carney fortalece laços do Canadá com a Europa na Cimeira da Comunidade Política Europeia
-  source: The Expositor
-  url: https://www.brantfordexpositor.ca/press-releases/pr-newswire/prime-minister-carney-strengthens-canadas-alliance-with-europe-at-the-summit-of-the-european-political-community/
+    country: Belgium
+    place: Bruxelas
+    lat: 50.8503
+    lon: 4.3517
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/North_America_from_low_orbiting_satellite_Suomi_NPP.jpg/1280px-North_America_from_low_orbiting_satellite_Suomi_NPP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:North_America_from_low_orbiting_satellite_Suomi_NPP.jpg
+    query: satellite in orbit
+  chart_check:
+    result: 'not used: 25 isn''t in the article'
+- title: Cinco países europeus planejam enviar solicitantes de asilo rejeitados para Ruanda.
+  source: Los Angeles Times
+  url: https://www.latimes.com/world-nation/story/2026-11-16/5-european-countries-aim-to-send-rejected-asylum-seekers-to-center-in-rwanda
   good: false
   trending: false
   why: ''
   cat: POLITICS
   visual:
     type: map
-    country: Canada
-    place: Ottawa
-    lat: 45.4215
-    lon: -75.6972
+    country: Rwanda
+    place: Ruanda
+    lat: -1.9403
+    lon: 29.8739
     span: 25
+  photo:
+    url: https://live.staticflickr.com/5213/5453987637_ac1b11cc1b_b.jpg
+    credit: Diana Parkhouse · CC BY 2.0 · Flickr
+    page: https://www.flickr.com/photos/48600099935@N01/5453987637
+    query: passport and documents
+  chart_check:
+    result: 'not used: a map needs 3+ places (got 0)'
