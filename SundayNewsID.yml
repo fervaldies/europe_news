@@ -1,100 +1,111 @@
-date: 2026-11-15
+date: 2026-11-22
 day: Sunday
 news:
-- title: Kushner Dorong Perundingan Langsung Rusia-Eropa untuk Amankan Perdamaian di Ukraina
-  source: Spokane Spokesman-Review
-  url: https://www.spokesman.com/stories/2026/nov/14/kushner-wants-direct-russia-europe-talks-in-ukrain/
+- title: Ketegangan Meningkat Setelah Helikopter Diduga Milik Rusia Masuk Ruang Udara Finlandia
+  source: Times Now
+  url: https://www.timesnownews.com/world/europe/russia-ukraine-war-nato-tensions-helicopter-airspace-breach-finland-article-156548333
   good: false
   trending: false
-  why: ''
-  cat: POLITICS
+  why: Pelanggaran perbatasan mengancam keamanan regional dan meningkatkan risiko eskalasi langsung.
+  cat: CONFLICT
   visual:
     type: map
-    country: Ukraine
-    place: Ukraina
-    lat: 48.3794
-    lon: 31.1656
+    country: Finland
+    place: Finlandia
+    lat: 61.9241
+    lon: 25.7482
     span: 25
   photo:
-    url: https://upload.wikimedia.org/wikipedia/commons/f/fd/Mexican_Peace_Commissioners_Jos%C3%A9_Mar%C3%ADa_Pino_Su%C3%A1rez%2C_Dr._Vazquez_Gomez%2C_Francisco_I._Madero%2C_and_Judge_Carbajal_seated_around_table%2C_during_the_Mexican_Peace_Commission_at_Ciudad_Juarez%2C_LCCN97508873.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-    credit: Scott Photo Co., photographer · Public domain · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Mexican_Peace_Commissioners_Jos%C3%A9_Mar%C3%ADa_Pino_Su%C3%A1rez,_Dr._Vazquez_Gomez,_Francisco_I._Madero,_and_Judge_Carbajal_seated_around_table,_during_the_Mexican_Peace_Commission_at_Ciudad_Juarez,_LCCN97508873.jpg
-    query: peace negotiations table
-- title: Italia Bantah Blokir Jerman dari Proyek Jet Tempur Baru Inggris
-  source: The Telegraph
-  url: https://www.telegraph.co.uk/news/2026/11/14/gcap-global-fighter-jet-project-italy-germany-britain/
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Airbus_Helicopters_EC725_Super_Cougar_in_Brazilian_flight_in_recife_bay.jpg/1280px-Airbus_Helicopters_EC725_Super_Cougar_in_Brazilian_flight_in_recife_bay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Wilfredor · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Airbus_Helicopters_EC725_Super_Cougar_in_Brazilian_flight_in_recife_bay.jpg
+    query: military helicopter flight
+- title: Pierrakakis Dorong Rencana 6G Sebesar 15 Miliar Euro untuk Dongkrak Investasi Telekomunikasi Eropa
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/11/22/english-edition/pierrakakis-puts-e15bn-6g-plan-on-eu-agenda-spectrum-revenues-and-europes-investment-needs/
   good: false
   trending: false
-  why: ''
-  cat: DEFENCE
-  visual:
-    type: map
-    country: Italy
-    place: Roma
-    lat: 41.9028
-    lon: 12.4964
-    span: 12
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Sailors_conduct_maintenance_on_a_jet_engine_in_the_hangar_bay_of_USS_Dwight_D._Eisenhower._%2825686253733%29.jpg/1280px-Sailors_conduct_maintenance_on_a_jet_engine_in_the_hangar_bay_of_USS_Dwight_D._Eisenhower._%2825686253733%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Official U.S. Navy Page from United States of Amer · Public domain · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Sailors_conduct_maintenance_on_a_jet_engine_in_the_hangar_bay_of_USS_Dwight_D._Eisenhower._(25686253733).jpg
-    query: fighter jet hangar
-- title: Yunani Sahkan Paket Keringanan Pajak Terbesar Sejak Krisis Utang
-  source: iefimerida
-  url: https://www.iefimerida.gr/english/austerity-handouts-greece-passes-its-biggest-tax-relief-package-debt-crisis
-  good: false
-  trending: false
-  why: ''
-  cat: ECONOMY
-  visual:
-    type: map
-    country: Greece
-    place: Athena
-    lat: 37.9838
-    lon: 23.7275
-    span: 12
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Detail_main_facade_Building_of_Parliament_of_Greece_Athens.jpg/1280px-Detail_main_facade_Building_of_Parliament_of_Greece_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Jebulon · CC0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Detail_main_facade_Building_of_Parliament_of_Greece_Athens.jpg
-    query: greek parliament building
-  chart_check:
-    result: 'not used: one number without a change — the count-up number is used instead'
-- title: Yunani Beri Raksasa Teknologi Waktu Berminggu-minggu untuk Jauhkan Anak di Bawah 15 Tahun dari Media Sosial
-  source: iefimerida
-  url: https://www.iefimerida.gr/english/greece-gives-tech-giants-weeks-prove-they-can-keep-children-under-15-social-media
-  good: false
-  trending: false
-  why: Anak-anak di bawah usia 15 tahun menghadapi pembatasan media sosial baru.
+  why: Pendanaan telekomunikasi tingkat lanjut membentuk infrastruktur digital masa depan dan biaya konektivitas seluler sehari-hari.
   cat: TECH
   visual:
-    type: map
-    country: Greece
-    place: Athena
-    lat: 37.9838
-    lon: 23.7275
-    span: 12
+    type: icon
   photo:
-    url: https://live.staticflickr.com/3838/15075782098_4902983cf5_b.jpg
-    credit: Wonderlane · CC BY 2.0 · Flickr
-    page: https://www.flickr.com/photos/71401718@N00/15075782098
-    query: smartphone screen kids
-- title: Barcelona Alami Kendala Saat Pemain Bintang Kembali dari Tugas Internasional dengan Cedera
-  source: Yardbarker
-  url: https://www.yardbarker.com/soccer/articles/new_setback_barcelona_star_returns_to_flicks_squad_injured/s1_17790_44560328
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/A_BSNL_4G_Telecom_Tower_In_Todabhim.jpg/1280px-A_BSNL_4G_Telecom_Tower_In_Todabhim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Rahulsince93 · CC BY 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:A_BSNL_4G_Telecom_Tower_In_Todabhim.jpg
+    query: telecom network tower
+  chart_check:
+    result: 'not used: a range chart needs 2–8 rows; 0 isn''t in the article'
+- title: Ribuan Orang Protes di Seluruh Eropa karena Lonjakan Biaya Hidup dan Perumahan
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3391457/
+  good: false
+  trending: false
+  why: Protes biaya hidup yang meluas secara langsung mencerminkan tekanan finansial yang dihadapi rumah tangga di seluruh Eropa.
+  cat: ECONOMY
+  visual:
+    type: chart
+    chart: bars
+    unit: ''
+    prefix: ''
+    decimals: 0
+    source: Ministry of Interior
+    hedge: false
+    title_en: Protest turnouts in France
+    labels_en:
+    - Nationwide (Ministry of Interior)
+    - Paris
+    - Nationwide (Organisers)
+    values:
+    - 82500
+    - 21500
+    - 150000
+    title_id: Jumlah peserta protes di Prancis
+    labels_id:
+    - Nasional (Kementerian Dalam Negeri)
+    - Paris
+    - Nasional (Penyelenggara)
+    fallback:
+      type: icon
+  chart_check:
+    result: ok
+    template: bars
+- title: COP31 Mandek Saat EU Menuntut Kesepakatan Kuat di Tengah Perpecahan Mendalam soal Bahan Bakar Fosil dan Pendanaan Iklim
+  source: Pagenews.gr
+  url: https://www.pagenews.gr/2026/11/21/english-edition/cop31-faces-breakdown-eu-demands-good-deal-or-no-deal-as-fossil-fuels-and-120bn-divide-talks/
   good: false
   trending: false
   why: ''
-  cat: SPORT
+  cat: CLIMATE
+  visual:
+    type: icon
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Trans_day_of_Visibility_2024._Activists_hold_banner_saying_%22Sex_Change_not_Climate_Change%22.jpg/1280px-Trans_day_of_Visibility_2024._Activists_hold_banner_saying_%22Sex_Change_not_Climate_Change%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Lua Eva Blue · CC BY 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Trans_day_of_Visibility_2024._Activists_hold_banner_saying_%22Sex_Change_not_Climate_Change%22.jpg
+    query: climate protest banner
+- title: EU dan Indonesia Teken Perjanjian Perdagangan Bebas Utama Setelah 10 Tahun Perundingan
+  source: The News International
+  url: https://www.thenews.com.pk/latest/1424540-eu-and-indonesia-sign-landmark-free-trade-deal-after-10-year-talks
+  good: false
+  trending: false
+  why: ''
+  cat: BUSINESS
   visual:
     type: map
-    country: Spain
-    place: Barcelona
-    lat: 41.3851
-    lon: 2.1734
-    span: 3
+    country: Indonesia
+    place: Jakarta
+    lat: -6.2088
+    lon: 106.8456
+    span: 25
+    country2: Belgium
+    place2: Brussels
+    lat2: 50.8503
+    lon2: 4.3517
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/View_of_August_27th_Stadium_Football_Pitch%2C_Damaturu%2C_Yobe_State.jpg/1280px-View_of_August_27th_Stadium_Football_Pitch%2C_Damaturu%2C_Yobe_State.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Escanor247 · CC BY-SA 4.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:View_of_August_27th_Stadium_Football_Pitch,_Damaturu,_Yobe_State.jpg
-    query: football stadium pitch
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Cargo_ship_PONTIAC%2C_ENI_02320416%2C_MMSI_244660959._15-07-2024._%28actm.%29.jpg/1280px-Cargo_ship_PONTIAC%2C_ENI_02320416%2C_MMSI_244660959._15-07-2024._%28actm.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Agnes Monkelbaan · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Cargo_ship_PONTIAC,_ENI_02320416,_MMSI_244660959._15-07-2024._(actm.).jpg
+    query: cargo ship port
+  chart_check:
+    result: 'not used: the shares add up to 188.9%, not 100%'
