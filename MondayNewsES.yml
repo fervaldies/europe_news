@@ -1,124 +1,126 @@
-date: 2026-11-16
+date: 2026-11-23
 day: Monday
 news:
-- title: Cómo las recomendaciones de la IA están marginando a los artistas en toda Europa
-  source: EUROPE SAYS
-  url: https://www.europesays.com/3378147/
+- title: Se espera que la India y la UE firmen un acuerdo de libre comercio durante la visita del primer ministro Modi a Europa.
+  source: News18
+  url: https://www.news18.com/business/economy/india-eu-fta-likely-to-be-signed-on-december-16-during-pm-modis-europe-visit-10436682.html
   good: false
   trending: false
-  why: Los algoritmos dictan qué creadores culturales europeos llegan al público y generan ingresos.
-  cat: TECH
-  visual:
-    type: icon
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/James_McNeill_Whistler_-_Caprice_in_Purple_and_Gold-_The_Golden_Screen_-_Google_Art_Project.jpg/1280px-James_McNeill_Whistler_-_Caprice_in_Purple_and_Gold-_The_Golden_Screen_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: James McNeill Whistler · Public domain · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:James_McNeill_Whistler_-_Caprice_in_Purple_and_Gold-_The_Golden_Screen_-_Google_Art_Project.jpg
-    query: digital art screen
-  chart_check:
-    result: 'not used: 90000 isn''t in the article; 0 isn''t in the article'
-- title: Zelenski se reúne con aliados europeos para debatir el fin de la guerra con Rusia
-  source: Hindustan Times
-  url: https://www.hindustantimes.com/world-news/zelensky-to-meet-european-allies-to-discuss-common-position-on-ending-russia-ukraine-war-101794776145319.html
-  good: false
-  trending: false
-  why: Las decisiones diplomáticas determinan directamente la estabilidad y la seguridad de las fronteras europeas.
-  cat: CONFLICT
-  visual:
-    type: map
-    country: Ukraine
-    place: Kiev
-    lat: 50.4501
-    lon: 30.5234
-    span: 25
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bangladesh_Flag_%26_Parliament_Building.jpg/1280px-Bangladesh_Flag_%26_Parliament_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Gary Todd · CC0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Bangladesh_Flag_%26_Parliament_Building.jpg
-    query: parliament building flag
-- title: Se reanuda el proyecto del cable GSI tras una protesta de la armada turca y la diplomacia francesa
-  source: Proto Thema
-  url: https://en.protothema.gr/2026/11/15/gsi-cable-project-resumes-as-turkey-stages-symbolic-naval-protest-and-france-brokers-diplomatic-arrangement/
-  good: false
-  trending: false
-  why: ''
+  why: El acuerdo comercial podría afectar precios y empleos en ambas regiones.
   cat: BUSINESS
   visual:
     type: map
-    country: Turkey
-    place: Ankara
-    lat: 39.9334
-    lon: 32.8597
-    span: 12
-    country2: France
-    place2: París
-    lat2: 48.8566
-    lon2: 2.3522
-    span2: 12
+    country: European Union
+    place: UE
+    lat: 54.526
+    lon: 15.2551
+    span: 25
+    country2: India
+    place2: India
+    lat2: 20.5937
+    lon2: 78.9629
+    span2: 25
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Submarine_Cable_Breaks_at_Valdez.png/1280px-Submarine_Cable_Breaks_at_Valdez.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Lt. Paul Hurst · Public domain · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Submarine_Cable_Breaks_at_Valdez.png
-    query: submarine cable ship
-- title: La UE intensifica el caso antimonopolio contra la eléctrica griega PPC por los precios de la electricidad
-  source: EUROPE SAYS
-  url: https://www.europesays.com/3377537/
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Business_agreement_handshake_at_coffee_shop.jpg/1280px-Business_agreement_handshake_at_coffee_shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: rawpixel.com · CC0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Business_agreement_handshake_at_coffee_shop.jpg
+    query: handshake agreement
+- title: La sonda espacial BepiColombo ha comenzado a orbitar Mercurio a pesar de sufrir un fallo técnico.
+  source: The Hindu
+  url: https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece
   good: false
   trending: false
   why: ''
+  cat: SCIENCE
+  visual:
+    type: icon
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mercury_-_accurate_colour.png/1280px-Mercury_-_accurate_colour.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Sturm 1 · CC BY 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Mercury_-_accurate_colour.png
+    query: Mercury planet space
+  chart_check:
+    result: 'not used: a size comparison needs 2–4 amounts'
+- title: El debilitado mercado energético europeo envía señales de alarma a la economía en general.
+  source: The Japan Times
+  url: https://www.japantimes.co.jp/business/2026/11/23/europe-power-market-economy/
+  good: false
+  trending: false
+  why: El estrés del mercado energético podría aumentar facturas e inflación.
   cat: ECONOMY
   visual:
     type: map
-    country: Greece
-    place: Atenas
-    lat: 37.9838
-    lon: 23.7275
-    span: 12
+    country: European Union
+    place: UE
+    lat: 54.526
+    lon: 15.2551
+    span: 25
   photo:
-    url: https://upload.wikimedia.org/wikipedia/commons/b/b8/Columns_on_the_facade_of_the_Old_Supreme_Court_Building%2C_Singapore_-_20080801.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-    credit: Jacklee · CC BY-SA 3.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Columns_on_the_facade_of_the_Old_Supreme_Court_Building,_Singapore_-_20080801.JPG
-    query: court building columns
-- title: Las vacaciones de invierno en Grecia bajan 372 libras
-  source: Daily Express
-  url: https://www.express.co.uk/travel/articles/2265281/greece-cheap-holiday-alert-price-winter-breaks-nosedive
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Power_Lines-1320872%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg/1280px-Power_Lines-1320872%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Wainuio · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Power_Lines-1320872,_Wainuiomata,_Wellington,_New_Zealand.jpg
+    query: electrical power lines
+  chart_check:
+    result: 'not used: 0 isn''t in the article'
+- title: Un afortunado jugador de la Lotería de Irlanda acaba de ganar un bote multimillonario en euros.
+  source: Irish Mirror
+  url: https://www.irishmirror.ie/news/irish-news/check-tickets-now-lucky-irish-37902834
   good: false
   trending: false
   why: ''
-  cat: ECONOMY
+  cat: SOCIETY
+  visual:
+    type: map
+    country: Ireland
+    place: Irlanda
+    lat: 53.4129
+    lon: -8.2439
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Filling_lottery_ticket_20180215.jpg/1280px-Filling_lottery_ticket_20180215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Santeri Viinamäki · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Filling_lottery_ticket_20180215.jpg
+    query: lottery ticket
+  chart_check:
+    result: 'not used: 0 isn''t in the article'
+- title: El número de manifestantes en Francia disminuye tras semanas de disturbios y un despliegue de seguridad masivo.
+  source: Times Now
+  url: https://www.timesnownews.com/world/europe/france-sees-drop-in-protest-numbers-after-weeks-of-unrest-70000-security-personnel-deployed-article-156551273
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
   visual:
     type: chart
     chart: bars
-    unit: '%'
+    unit: ''
     prefix: ''
-    decimals: 1
-    source: AirDNA
+    decimals: 0
+    source: Interior Ministry
     hedge: false
-    title_en: Winter price drop by country
-    so_what_en: Largest winter price drop across 38 European countries
+    title_en: French protest turnout estimates
     labels_en:
-    - Greece
-    - Montenegro
-    - Albania
+    - Interior Ministry
+    - Organisers
     values:
-    - 43.3
-    - 35.1
-    - 33.8
-    title_es: Caída de precios en invierno por país
+    - 82500
+    - 150000
+    title_es: Estimaciones de participación en las protestas francesas
     labels_es:
-    - Grecia
-    - Montenegro
-    - Albania
-    so_what_es: Mayor caída de precios de invierno en 38 países europeos
+    - Ministerio del Interior
+    - Organizadores
     fallback:
-      type: number
-      number: '372'
-      label: libras más barato
+      type: map
+      country: France
+      place: Francia
+      lat: 46.2276
+      lon: 2.2137
+      span: 25
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Vue_prise_au_Passage_de_Murren_%28BM_1958%2C0712.1154%29.jpg/1280px-Vue_prise_au_Passage_de_Murren_%28BM_1958%2C0712.1154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: 'Print made by: Heinrich Fischer Print made by: Cas · Public domain · Wikimedia Commons'
-    page: https://commons.wikimedia.org/wiki/File:Vue_prise_au_Passage_de_Murren_(BM_1958,0712.1154).jpg
-    query: snowy mountain chalet
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Warsaw%2C_demonstration_in_Krakowskie_Przedmie%C5%9Bcie_Street%2C_28_July_2019.jpg/1280px-Warsaw%2C_demonstration_in_Krakowskie_Przedmie%C5%9Bcie_Street%2C_28_July_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Cayambe · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Warsaw,_demonstration_in_Krakowskie_Przedmie%C5%9Bcie_Street,_28_July_2019.jpg
+    query: street protest demonstration
   chart_check:
     result: ok
     template: bars

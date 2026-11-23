@@ -1,124 +1,126 @@
-date: 2026-11-16
+date: 2026-11-23
 day: Monday
 news:
-- title: Bagaimana Rekomendasi AI Menyingkirkan Seniman di Seluruh Eropa
-  source: EUROPE SAYS
-  url: https://www.europesays.com/3378147/
+- title: India dan Uni Eropa Diharapkan Teken Perjanjian Perdagangan Bebas Saat Kunjungan PM Modi ke Eropa
+  source: News18
+  url: https://www.news18.com/business/economy/india-eu-fta-likely-to-be-signed-on-december-16-during-pm-modis-europe-visit-10436682.html
   good: false
   trending: false
-  why: Algoritme menentukan kreator budaya Eropa mana yang menjangkau penonton dan mendapatkan penghasilan.
-  cat: TECH
-  visual:
-    type: icon
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/James_McNeill_Whistler_-_Caprice_in_Purple_and_Gold-_The_Golden_Screen_-_Google_Art_Project.jpg/1280px-James_McNeill_Whistler_-_Caprice_in_Purple_and_Gold-_The_Golden_Screen_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: James McNeill Whistler · Public domain · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:James_McNeill_Whistler_-_Caprice_in_Purple_and_Gold-_The_Golden_Screen_-_Google_Art_Project.jpg
-    query: digital art screen
-  chart_check:
-    result: 'not used: 90000 isn''t in the article; 0 isn''t in the article'
-- title: Zelenskyy Bertemu Sekutu Eropa untuk Bahas Penghentian Perang dengan Rusia
-  source: Hindustan Times
-  url: https://www.hindustantimes.com/world-news/zelensky-to-meet-european-allies-to-discuss-common-position-on-ending-russia-ukraine-war-101794776145319.html
-  good: false
-  trending: false
-  why: Keputusan diplomatik secara langsung membentuk stabilitas dan keamanan perbatasan Eropa.
-  cat: CONFLICT
-  visual:
-    type: map
-    country: Ukraine
-    place: Kyiv
-    lat: 50.4501
-    lon: 30.5234
-    span: 25
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bangladesh_Flag_%26_Parliament_Building.jpg/1280px-Bangladesh_Flag_%26_Parliament_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Gary Todd · CC0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Bangladesh_Flag_%26_Parliament_Building.jpg
-    query: parliament building flag
-- title: Proyek Kabel GSI Dilanjutkan Kembali Usai Aksi Protes Angkatan Laut Turki dan Diplomasi Prancis
-  source: Proto Thema
-  url: https://en.protothema.gr/2026/11/15/gsi-cable-project-resumes-as-turkey-stages-symbolic-naval-protest-and-france-brokers-diplomatic-arrangement/
-  good: false
-  trending: false
-  why: ''
+  why: Perjanjian perdagangan dapat mempengaruhi harga dan pekerjaan di kedua wilayah.
   cat: BUSINESS
   visual:
     type: map
-    country: Turkey
-    place: Ankara
-    lat: 39.9334
-    lon: 32.8597
-    span: 12
-    country2: France
-    place2: Paris
-    lat2: 48.8566
-    lon2: 2.3522
-    span2: 12
+    country: European Union
+    place: UE
+    lat: 54.526
+    lon: 15.2551
+    span: 25
+    country2: India
+    place2: India
+    lat2: 20.5937
+    lon2: 78.9629
+    span2: 25
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Submarine_Cable_Breaks_at_Valdez.png/1280px-Submarine_Cable_Breaks_at_Valdez.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Lt. Paul Hurst · Public domain · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Submarine_Cable_Breaks_at_Valdez.png
-    query: submarine cable ship
-- title: UE Tingkatkan Kasus Antitrust Terhadap PPC Yunani Terkait Harga Listrik
-  source: EUROPE SAYS
-  url: https://www.europesays.com/3377537/
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Business_agreement_handshake_at_coffee_shop.jpg/1280px-Business_agreement_handshake_at_coffee_shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: rawpixel.com · CC0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Business_agreement_handshake_at_coffee_shop.jpg
+    query: handshake agreement
+- title: Wahana Antariksa BepiColombo Mulai Mengorbit Merkurius Meski Alami Gangguan Teknis
+  source: The Hindu
+  url: https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece
   good: false
   trending: false
   why: ''
+  cat: SCIENCE
+  visual:
+    type: icon
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mercury_-_accurate_colour.png/1280px-Mercury_-_accurate_colour.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Sturm 1 · CC BY 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Mercury_-_accurate_colour.png
+    query: Mercury planet space
+  chart_check:
+    result: 'not used: a size comparison needs 2–4 amounts'
+- title: Pasar Listrik Eropa yang Terpuruk Beri Tanda Peringatan ke Perekonomian Luas
+  source: The Japan Times
+  url: https://www.japantimes.co.jp/business/2026/11/23/europe-power-market-economy/
+  good: false
+  trending: false
+  why: Tekanan pasar energi dapat menyebabkan tagihan energi dan inflasi lebih tinggi.
   cat: ECONOMY
   visual:
     type: map
-    country: Greece
-    place: Athena
-    lat: 37.9838
-    lon: 23.7275
-    span: 12
+    country: European Union
+    place: UE
+    lat: 54.526
+    lon: 15.2551
+    span: 25
   photo:
-    url: https://upload.wikimedia.org/wikipedia/commons/b/b8/Columns_on_the_facade_of_the_Old_Supreme_Court_Building%2C_Singapore_-_20080801.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-    credit: Jacklee · CC BY-SA 3.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Columns_on_the_facade_of_the_Old_Supreme_Court_Building,_Singapore_-_20080801.JPG
-    query: court building columns
-- title: Liburan Musim Dingin di Yunani Turun 372 Poundsterling
-  source: Daily Express
-  url: https://www.express.co.uk/travel/articles/2265281/greece-cheap-holiday-alert-price-winter-breaks-nosedive
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Power_Lines-1320872%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg/1280px-Power_Lines-1320872%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Wainuio · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Power_Lines-1320872,_Wainuiomata,_Wellington,_New_Zealand.jpg
+    query: electrical power lines
+  chart_check:
+    result: 'not used: 0 isn''t in the article'
+- title: Seorang Pemain Irish Lotto yang Beruntung Baru Saja Menangkan Jackpot Jutaan Euro
+  source: Irish Mirror
+  url: https://www.irishmirror.ie/news/irish-news/check-tickets-now-lucky-irish-37902834
   good: false
   trending: false
   why: ''
-  cat: ECONOMY
+  cat: SOCIETY
+  visual:
+    type: map
+    country: Ireland
+    place: Irlandia
+    lat: 53.4129
+    lon: -8.2439
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Filling_lottery_ticket_20180215.jpg/1280px-Filling_lottery_ticket_20180215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Santeri Viinamäki · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Filling_lottery_ticket_20180215.jpg
+    query: lottery ticket
+  chart_check:
+    result: 'not used: 0 isn''t in the article'
+- title: Jumlah Pengunjuk Rasa di Prancis Menurun Setelah Berminggu-minggu Kerusuhan dan Pengerahan Keamanan Besar-besaran
+  source: Times Now
+  url: https://www.timesnownews.com/world/europe/france-sees-drop-in-protest-numbers-after-weeks-of-unrest-70000-security-personnel-deployed-article-156551273
+  good: false
+  trending: false
+  why: ''
+  cat: POLITICS
   visual:
     type: chart
     chart: bars
-    unit: '%'
+    unit: ''
     prefix: ''
-    decimals: 1
-    source: AirDNA
+    decimals: 0
+    source: Interior Ministry
     hedge: false
-    title_en: Winter price drop by country
-    so_what_en: Largest winter price drop across 38 European countries
+    title_en: French protest turnout estimates
     labels_en:
-    - Greece
-    - Montenegro
-    - Albania
+    - Interior Ministry
+    - Organisers
     values:
-    - 43.3
-    - 35.1
-    - 33.8
-    title_id: Penurunan harga musim dingin berdasarkan negara
+    - 82500
+    - 150000
+    title_id: Perkiraan partisipasi protes di Prancis
     labels_id:
-    - Yunani
-    - Montenegro
-    - Albania
-    so_what_id: Penurunan harga musim dingin terbesar di 38 negara Eropa
+    - Kementerian Dalam Negeri
+    - Penyelenggara
     fallback:
-      type: number
-      number: '372'
-      label: pon lebih murah
+      type: map
+      country: France
+      place: Prancis
+      lat: 46.2276
+      lon: 2.2137
+      span: 25
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Vue_prise_au_Passage_de_Murren_%28BM_1958%2C0712.1154%29.jpg/1280px-Vue_prise_au_Passage_de_Murren_%28BM_1958%2C0712.1154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: 'Print made by: Heinrich Fischer Print made by: Cas · Public domain · Wikimedia Commons'
-    page: https://commons.wikimedia.org/wiki/File:Vue_prise_au_Passage_de_Murren_(BM_1958,0712.1154).jpg
-    query: snowy mountain chalet
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Warsaw%2C_demonstration_in_Krakowskie_Przedmie%C5%9Bcie_Street%2C_28_July_2019.jpg/1280px-Warsaw%2C_demonstration_in_Krakowskie_Przedmie%C5%9Bcie_Street%2C_28_July_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Cayambe · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Warsaw,_demonstration_in_Krakowskie_Przedmie%C5%9Bcie_Street,_28_July_2019.jpg
+    query: street protest demonstration
   chart_check:
     result: ok
     template: bars
