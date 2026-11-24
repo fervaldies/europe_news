@@ -1,118 +1,115 @@
-date: 2026-11-10
+date: 2026-11-24
 day: Tuesday
 news:
-- title: Rusia dan Ukraina Bersiap Gelar Perundingan Damai yang Didukung AS
-  why: Pembicaraan damai berdampak pada stabilitas regional dan risiko perang yang lebih luas.
-  source: Al Jazeera
-  url: https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates
-  cat: CONFLICT
+- title: Platform Kripto Webot Resmi Buka Kantor Pusat Eropa di Cork
+  source: Siliconrepublic.com
+  url: https://www.siliconrepublic.com/business/crypto-platform-webot-european-headquarters-cork-expansion
   good: false
-  visual:
-    type: map
-    country: Ukraine
-    place: Kyiv
-    lat: 50.4501
-    lon: 30.5234
-    span: 12
   trending: false
-- title: Amundi Bawa Saham Eropa ke Ethereum dengan Ketentuan Akses Masih Dirahasiakan
   why: ''
-  source: Times Now
-  url: https://www.timesnownews.com/world/europe/russia-ukraine-war-latest-updates-kyiv-northern-southern-bridges-dnipro-river-attack-article-156521951
-  cat: CONFLICT
-  good: false
+  cat: TECH
   visual:
     type: map
-    country: Ukraine
-    place: Kyiv
-    lat: 50.4501
-    lon: 30.5234
-    span: 6
-    country2: Ukraine
-    place2: Krimea
-    lat2: 44.9521
-    lon2: 34.1024
-  trending: false
+    country: Ireland
+    place: Cork
+    lat: 51.8985
+    lon: -8.4756
+    span: 3
   photo:
-    url: https://upload.wikimedia.org/wikipedia/commons/b/b4/Damaged_wall_at_Wyther_Lane_bridge_-_geograph.org.uk_-_5234194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-    credit: Stephen Craven · CC BY-SA 2.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Damaged_wall_at_Wyther_Lane_bridge_-_geograph.org.uk_-_5234194.jpg
-    query: damaged city bridge
-- title: Pusat Data Eropa Hadapi Protes Seiring Ekspansi AI Sentuh Politik AS
-  why: ''
-  source: PerthNow
-  url: https://www.perthnow.com.au/news/politics/brexit-has-been-a-flop-says-uk-leader-andy-burnham-c-23171192
-  cat: POLITICS
+    url: https://upload.wikimedia.org/wikipedia/commons/2/29/Modern_Office_Building_in_Brussels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: Ahmed Abouaiana · CC BY 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Modern_Office_Building_in_Brussels.jpg
+    query: modern office building
+- title: E3 Lithium Kantongi Izin Eksplorasi Lithium Baru di Jerman
+  source: The Expositor
+  url: https://www.brantfordexpositor.ca/press-releases/business-wire/e3-lithium-awarded-lithium-exploration-licence-in-germany/
   good: false
+  trending: false
+  why: Ini memengaruhi pasokan domestik bahan baterai penting di Eropa.
+  cat: ENERGY
+  visual:
+    type: map
+    country: Germany
+    place: Jerman
+    lat: 51.1657
+    lon: 10.4515
+    span: 25
+- title: Ekonomi Yunani Diprediksi Lampaui Rata-Rata Eropa hingga 2028
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3380767/
+  good: false
+  trending: false
+  why: Ini menandakan tren pemulihan keuangan dan pertumbuhan yang lebih luas di seluruh Eropa.
+  cat: ECONOMY
   visual:
     type: chart
-    chart: donut
+    chart: bars
     unit: '%'
     prefix: ''
-    decimals: 0
-    source: BBC
+    decimals: 1
+    source: EY
     hedge: false
-    title_en: Brexit referendum vote
+    title_en: Eurozone and Greek GDP Growth
     labels_en:
-    - Leaving the EU
-    - Staying in
+    - Eurozone
+    - Greece
     values:
-    - 52
-    - 48
-    title_id: Pemungutan suara referendum Brexit
+    - 1.0
+    - 1.6
+    title_id: Pertumbuhan PDB Zona Euro dan Yunani
     labels_id:
-    - Keluar dari UE
-    - Tetap tinggal
+    - Zona Euro
+    - Yunani
     fallback:
       type: map
-      country: United Kingdom
-      place: London
-      lat: 51.5074
-      lon: -0.1278
+      country: Greece
+      place: Yunani
+      lat: 39.0742
+      lon: 21.8243
       span: 12
-  trending: false
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg/1280px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Colin · CC BY-SA 4.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg
-    query: Westminster Parliament building
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Ch%C3%A2teau_Frontenac_after_a_freezing_rain_day_in_Quebec_city.jpg/1280px-Ch%C3%A2teau_Frontenac_after_a_freezing_rain_day_in_Quebec_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Wilfredor · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac_after_a_freezing_rain_day_in_Quebec_city.jpg
+    query: historic city skyline
   chart_check:
     result: ok
-    template: donut
-- title: Anggota Parlemen Eropa Desak Belgia Evakuasi Pemegang Visa Gaza di Tengah Banjir Musim Dingin yang Parah
-  why: ''
-  source: Euronews
-  url: https://www.euronews.com/2026/11/16/sanchez-and-lula-meet-in-madrid-to-strengthen-ties-amid-threat-of-the-far-right
-  cat: POLITICS
+    template: bars
+- title: Regulator Privasi Belanda Peringatkan Konsumen untuk Hindari Kacamata Pintar
+  source: TechCrunch
+  url: https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/
   good: false
+  trending: false
+  why: ''
+  cat: TECH
   visual:
     type: map
-    country: Spain
-    place: Madrid
-    lat: 40.4168
-    lon: -3.7038
+    country: Netherlands
+    place: Belanda
+    lat: 52.1326
+    lon: 5.2913
     span: 12
-    country2: Brazil
-    place2: Brasilia
-    lat2: -15.8267
-    lon2: -47.9218
-  trending: false
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Warsaw_2023_215_Krasinski_Palace_Facade_Sculptures.jpg/1280px-Warsaw_2023_215_Krasinski_Palace_Facade_Sculptures.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Scotch Mist · CC BY-SA 4.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Warsaw_2023_215_Krasinski_Palace_Facade_Sculptures.jpg
-    query: government palace facade
-- title: Arti Kebuntuan Anggaran Belgia bagi Negara Tersebut
-  why: ''
-  source: Gizmodo
-  url: https://gizmodo.com/tesla-wants-to-build-1-million-cybercabs-in-europe-theres-just-one-problem-2000840704
-  cat: BUSINESS
+    url: https://live.staticflickr.com/5506/31295798342_9e4231edfa_b.jpg
+    credit: freestocks.org · CC0 · Flickr
+    page: https://www.flickr.com/photos/135396164@N05/31295798342
+    query: smart glasses tech
+- title: Kepulauan Faroe Tunjuk Hello Registry untuk Kelola Domain .FO
+  source: The Expositor
+  url: https://www.brantfordexpositor.ca/press-releases/globe-newswire/faroe-islands-select-hello-registry-to-power-fo-domain-operations/
   good: false
-  visual:
-    type: icon
   trending: false
+  why: ''
+  cat: TECH
+  visual:
+    type: map
+    country: Faroe Islands
+    place: Kepulauan Faroe
+    lat: 62.01
+    lon: -6.77
+    span: 12
   photo:
-    url: https://upload.wikimedia.org/wikipedia/commons/a/ab/ELECTRIC_TAXI_%283411766902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-    credit: KNOW MALTA by Peter Grima · CC BY-SA 2.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:ELECTRIC_TAXI_(3411766902).jpg
-    query: electric taxi car
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Unnamed_remote_island_of_the_Buccaneer_Archipelago.jpg/1280px-Unnamed_remote_island_of_the_Buccaneer_Archipelago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Natalie Siegel-Brown · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Unnamed_remote_island_of_the_Buccaneer_Archipelago.jpg
+    query: remote island landscape
