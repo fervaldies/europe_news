@@ -1,80 +1,113 @@
-date: 2026-11-18
+date: 2026-11-25
 day: Wednesday
 news:
-- title: Perebutan gas alam cair di Eropa picu gangguan besar di pasar Asia.
-  source: EUROPE SAYS
-  url: https://www.europesays.com/3382622/
+- title: Eropa Siaga Saat Perang Ukraina Meluas ke Mediterania
+  source: Australian Financial Review
+  url: https://www.afr.com/world/europe/europe-on-edge-as-ukraine-war-spreads-into-mediterranean-20261125-p61h03
   good: false
   trending: false
   why: ''
-  cat: ENERGY
-  visual:
-    type: chart
-    chart: donut
-    unit: '%'
-    prefix: ''
-    decimals: 0
-    source: Gas Infrastructure Europe
-    hedge: false
-    title_en: EU gas storage filling level
-    labels_en:
-    - Full
-    - Empty
-    values:
-    - 70
-    - 30
-    title_id: Tingkat pengisian penyimpanan gas UE
-    labels_id:
-    - Penuh
-    - Kosong
-    fallback:
-      type: icon
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_%28LNG%29_for_Transport_%2823647734200%29.jpg/1280px-Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_%28LNG%29_for_Transport_%2823647734200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: U.S. Government Accountability Office from Washing · Public domain · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Figure_1-_Process_of_Obtaining_and_Processing_Liquefied_Natural_Gas_(LNG)_for_Transport_(23647734200).jpg
-    query: liquefied natural gas
-  chart_check:
-    result: ok
-    template: donut
-- title: Dorongan mendadak Trump soal Ukraina buat pemimpin Eropa dalam posisi sulit.
-  source: The Japan Times
-  url: https://www.japantimes.co.jp/news/2026/11/18/world/politics/trump-ukraine-push-europe/
-  good: false
-  trending: false
-  why: ''
-  cat: POLITICS
-  visual:
-    type: icon
-- title: Eropa butuh elektrifikasi lebih cepat untuk bersaing dengan Tiongkok, peringatkan kepala iklim UE.
-  source: Euronews
-  url: https://www.euronews.com/2026/11/17/eu-climate-chief-hoekstra-electrification-key-for-europe-to-compete-with-china-as-cop-push
-  good: false
-  trending: false
-  why: Elektrifikasi yang lebih cepat memengaruhi tagihan energi lokal dan keamanan kerja industri.
-  cat: CLIMATE
-  visual:
-    type: icon
-- title: Hak asasi manusia tak boleh dikesampingkan dalam penindakan migrasi, peringatkan kepala Dewan Eropa.
-  source: Euronews
-  url: https://www.euronews.com/2026/11/17/council-of-europe-chief-berset-warns-against-sidelining-human-rights-in-migration-crackdow
-  good: false
-  trending: false
-  why: ''
-  cat: SOCIETY
-  visual:
-    type: icon
-- title: Keamanan perbatasan dan gas Aljazair dipertaruhkan dalam Pemilu krusial Spanyol.
-  source: Pagenews.gr
-  url: https://www.pagenews.gr/2026/11/16/english-edition/spains-election-ceuta-at-the-border-algerian-gas-at-stake-who-holds-the-real-power/
-  good: false
-  trending: false
-  why: ''
-  cat: POLITICS
+  cat: CONFLICT
   visual:
     type: map
-    country: Spain
-    place: Spanyol
-    lat: 40.4637
-    lon: -3.7492
+    country: Ukraine
+    place: Mediterania
+    lat: 35.0
+    lon: 18.0
     span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Heresies_of_Sea_Power_-_Asiatic_Warship_in_same_Battle.png/1280px-Heresies_of_Sea_Power_-_Asiatic_Warship_in_same_Battle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: John Fredrick Thomas Jane · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Heresies_of_Sea_Power_-_Asiatic_Warship_in_same_Battle.png
+    query: warship at sea
+- title: Kasus Kekerasan Dalam Rumah Tangga di Jerman Capai Rekor Tertinggi
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3398927/
+  good: false
+  trending: false
+  why: Tingkat kekerasan dalam rumah tangga mempengaruhi keamanan publik dan kesejahteraan masyarakat.
+  cat: JUSTICE
+  visual:
+    type: chart
+    chart: bignum
+    unit: ''
+    prefix: ''
+    decimals: 1
+    source: official report
+    hedge: false
+    title_en: German domestic violence victims
+    so_what_en: New high in 2025
+    value: 280000
+    label_en: victims
+    change_unit: '%'
+    previous: 286
+    change: 3
+    period_prev: '2024'
+    title_id: Korban kekerasan dalam rumah tangga di Jerman
+    label_id: korban
+    period_prev_id: '2024'
+    so_what_id: Rekor tertinggi baru pada 2025
+    fallback:
+      type: map
+      country: Germany
+      place: Jerman
+      lat: 51.1657
+      lon: 10.4515
+      span: 12
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Exterior_of_the_Birch_Bayh_Federal_Building_%26_U.S._Courthouse_-_Jan_2012.jpg/1280px-Exterior_of_the_Birch_Bayh_Federal_Building_%26_U.S._Courthouse_-_Jan_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Richie Diesterheft · CC BY-SA 2.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Exterior_of_the_Birch_Bayh_Federal_Building_%26_U.S._Courthouse_-_Jan_2012.jpg
+    query: courthouse building exterior
+  chart_check:
+    result: ok
+    template: bignum
+- title: PM Modi dan Merz Sebut Perdagangan India-EU Akan Ciptakan Peluang Baru
+  source: Times of India
+  url: https://timesofindia.indiatimes.com/india/pm-modi-merz-say-india-eu-fta-will-unlock-new-opportunities/articleshow/136141940.cms
+  good: false
+  trending: false
+  why: ''
+  cat: ECONOMY
+  visual:
+    type: map
+    country: India
+    place: New Delhi
+    lat: 28.6139
+    lon: 77.209
+    span: 25
+- title: Volkswagen Cari Pembekuan Gaji Dua Tahun untuk 120.000 Pekerja di Tengah Ancaman Mogok
+  source: Livemint
+  url: https://www.livemint.com/companies/volkswagen-seeks-2-year-pay-freeze-for-120-000-workers-as-union-threatens-strikes-from-jan-1-11795542996111.html
+  good: false
+  trending: false
+  why: Upah dan jaminan kerja berdampak pada pekerja dan perekonomian secara luas.
+  cat: BUSINESS
+  visual:
+    type: icon
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice%2C_Poland.jpg/1280px-001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Marek Ślusarczyk ( Tupungato ) Photo portfolio · CC BY 3.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:001_Car_factory_assembly_line_-_Opel_factory_in_Gliwice,_Poland.jpg
+    query: automobile factory assembly
+  chart_check:
+    result: 'not used: then vs now needs two dates and 1–3 things'
+- title: Pasangan di Guernsey Menggali di Bawah Jalan Masuk Temukan Bunker Nazi Perang Dunia II Tersembunyi dengan Pesan di Dinding
+  source: Times of India
+  url: https://timesofindia.indiatimes.com/world/rest-of-world/a-guernsey-couple-digging-beneath-their-driveway-uncover-a-hidden-nazi-bunker-dating-back-to-world-war-ii-complete-with-german-messages-on-the-walls-and-an-escape-hatch/articleshow/136123432.cms
+  good: false
+  trending: false
+  why: ''
+  cat: WORLD
+  visual:
+    type: map
+    country: Guernsey
+    place: Guernsey
+    lat: 49.4482
+    lon: -2.5895
+    span: 3
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/SBB_Buchs_SG_-_BSO_Bunker_%2851376079133%29.jpg/1280px-SBB_Buchs_SG_-_BSO_Bunker_%2851376079133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Kecko from Eastern Switzerland · CC BY 2.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:SBB_Buchs_SG_-_BSO_Bunker_(51376079133).jpg
+    query: underground concrete bunker
