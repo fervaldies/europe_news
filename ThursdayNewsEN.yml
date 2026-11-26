@@ -1,83 +1,113 @@
-date: 2026-11-19
+date: 2026-11-26
 day: Thursday
 news:
-- title: Xi, Trump, and Putin are set to meet in a historic trilateral summit
-  source: Euronews
-  url: https://www.euronews.com/2026/11/19/europe-today-xi-trump-and-putin-together-in-a-historic-trilateral-meeting
+- title: Europe and Japan's Mercury mission survived a tense arrival after facing extreme heat and engine trouble
+  source: TechRadar
+  url: https://www.techradar.com/pro/the-latest-esa-mission-to-mercury-was-nearly-derailed-by-a-last-minute-software-issue
   good: false
   trending: false
   why: ''
+  cat: SCIENCE
+  visual:
+    type: map
+    country: Japan
+    place: Mercury
+    lat: 35.6762
+    lon: 139.6503
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Soyuz_Spacecraft_in_Orbit_-_GPN-2002-000155.jpg/1280px-Soyuz_Spacecraft_in_Orbit_-_GPN-2002-000155.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: NASA · Public domain · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Soyuz_Spacecraft_in_Orbit_-_GPN-2002-000155.jpg
+    query: spacecraft in orbit
+  chart_check:
+    result: 'not used: bars need 2–8 values (got 0)'
+- title: UK government to submit its EU deal for parliamentary approval
+  source: The Manila Times
+  url: https://www.manilatimes.net/2026/11/26/world/americas-emea/uk-govt-to-submit-eu-deal-for-parliaments-approval/2478387
+  good: false
+  trending: false
+  why: It defines the UK's future trade and travel regulations.
+  cat: POLITICS
+  visual:
+    type: map
+    country: United Kingdom
+    place: London
+    lat: 51.5074
+    lon: -0.1278
+    span: 12
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/British_Columbia_Parliament_Building_in_Victoria%2C_British_Columbia%2C_Canada_07.jpg/1280px-British_Columbia_Parliament_Building_in_Victoria%2C_British_Columbia%2C_Canada_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Michal Klajban · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:British_Columbia_Parliament_Building_in_Victoria,_British_Columbia,_Canada_07.jpg
+    query: British parliament building
+- title: Socialists and Liberals halt coalition talks after the EPP sides with the far right again
+  source: Euronews
+  url: https://www.euronews.com/2026/11/25/socialists-and-liberals-suspend-coalition-talks-after-epp-again-sides-with-far-right
+  good: false
+  trending: false
+  why: It delays government formation and impacts EU legislative stability.
   cat: POLITICS
   visual:
     type: icon
-- title: Migrants fueled Spain's economic boom, but investors now fear anti-immigration policies will stall growth
-  source: Al-Monitor
-  url: https://www.al-monitor.com/originals/2026/11/analysis-migrants-fuelled-spains-boom-now-investors-fear-anti-immigration
-  good: false
-  trending: false
-  why: Immigration trends directly impact local labor markets and housing costs.
-  cat: ECONOMY
-  visual:
-    type: map
-    country: Spain
-    place: Spain
-    lat: 40.4637
-    lon: -3.7492
-    span: 25
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Street_Scene_with_Textured_Facade_-_Madrid_-_Spain.jpg/1280px-Street_Scene_with_Textured_Facade_-_Madrid_-_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Adam Jones, Ph.D. / Adam Jones from Kelowna, BC, C · CC BY-SA 3.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Street_Scene_with_Textured_Facade_-_Madrid_-_Spain.jpg
-    query: Madrid street scene
-- title: Cyprus aims to join the Schengen zone by July 2027
-  source: EUROPE SAYS
-  url: https://www.europesays.com/3384642/
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Inside_the_D%C3%A1il_-_The_Irish_Parliament_Chamber.jpg/1280px-Inside_the_D%C3%A1il_-_The_Irish_Parliament_Chamber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: David Kernan · CC BY 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Inside_the_D%C3%A1il_-_The_Irish_Parliament_Chamber.jpg
+    query: parliament chamber interior
+- title: Sweden ranks first for media freedom support as global funding drops
+  source: Phys.org
+  url: https://phys.org/news/2026-11-sweden-tops-global-media-freedom.html
   good: false
   trending: false
   why: ''
-  cat: WORLD
+  cat: SOCIETY
   visual:
     type: map
-    country: Cyprus
-    place: Cyprus
-    lat: 35.1264
-    lon: 33.4299
+    country: Sweden
+    place: Stockholm
+    lat: 59.3293
+    lon: 18.0686
     span: 12
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Coastline-cyprus_hg.jpg/1280px-Coastline-cyprus_hg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Hannes Grobe/BHV · CC BY 3.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Coastline-cyprus_hg.jpg
-    query: Cyprus coastline
-- title: A court refuses to rescue Ivan Toney from the Euro 2028 crisis
-  source: Yardbarker
-  url: https://www.yardbarker.com/soccer/articles/fresh_shock_court_refuses_to_rescue_ivan_toney_from_euro_2028_crisis/s1_17790_44582629
+    url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Press_Freedom_Monument_CDO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: Amarkgio · CC BY-SA 3.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Press_Freedom_Monument_CDO.jpg
+    query: press freedom monument
+- title: JAPEX aims to boost Norway production with the Goliat oil and gas deal
+  source: EUROPE SAYS
+  url: https://www.europesays.com/3400447/
   good: false
   trending: false
   why: ''
-  cat: SPORT
+  cat: ENERGY
   visual:
-    type: icon
+    type: chart
+    chart: waffle
+    unit: '%'
+    prefix: ''
+    decimals: 0
+    source: Oilprice.com
+    hedge: false
+    title_en: Goliat oil field stake
+    labels_en:
+    - stake bought by JAPEX
+    - stake retained by Equinor
+    values:
+    - 8
+    - 27
+    fallback:
+      type: map
+      country: Norway
+      place: Goliat
+      lat: 71.2858
+      lon: 22.235
+      span: 12
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/1280px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: 'Florstein ( Telegram: WikiPhoto.Space ) · CC BY-SA 4.0 · Wikimedia Commons'
-    page: https://commons.wikimedia.org/wiki/File:Petrovskiy_football_stadium_in_SPB.jpg
-    query: football stadium
-- title: The EU proposes a 45 billion euro loan for Ukraine to be repaid by Russia
-  source: NDTV.com
-  url: https://www.ndtv.com/world-news/eu-proposes-45-billion-euro-loan-for-ukraine-to-be-repaid-by-russia-12345740
-  good: false
-  trending: false
-  why: Massive EU financial packages influence public debt and economic stability.
-  cat: ECONOMY
-  visual:
-    type: map
-    country: Ukraine
-    place: Ukraine
-    lat: 48.3794
-    lon: 31.1656
-    span: 25
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Karlsruhe_Palace_Flag_of_Europe_2025-05-09_01.jpg/1280px-Karlsruhe_Palace_Flag_of_Europe_2025-05-09_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Entbert · CC BY 4.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Karlsruhe_Palace_Flag_of_Europe_2025-05-09_01.jpg
-    query: European Union flag
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Oil_Platform_Crew_Transfer.jpg/1280px-Oil_Platform_Crew_Transfer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: GuavaTrain · CC0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+    query: offshore oil rig
+  chart_check:
+    result: ok
+    template: waffle
