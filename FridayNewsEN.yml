@@ -1,118 +1,98 @@
 date: 2026-11-27
 day: Friday
 news:
-- title: Raphaël Glucksmann says France's vote will shape Europe's destiny
-  source: Euronews
-  url: https://www.euronews.com/2026/11/26/presidential-candidate-raphael-glucksmann-frances-vote-will-shape-europes-destiny
-  good: false
-  trending: false
-  why: ''
-  cat: POLITICS
-  visual:
-    type: map
-    country: France
-    place: France
-    lat: 46.603354
-    lon: 1.888334
-    span: 25
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/RF_emblem_with_French_flags%2C_Palais_des_Ducs%2C_Dijon%2C_2026.jpg/1280px-RF_emblem_with_French_flags%2C_Palais_des_Ducs%2C_Dijon%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: DimiTalen · CC0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:RF_emblem_with_French_flags,_Palais_des_Ducs,_Dijon,_2026.jpg
-    query: French flag
-  chart_check:
-    result: 'not used: bars need 2–8 values (got 0)'
-- title: Think tank warns Russia-backed sabotage in Europe risks mass casualties
-  source: Cable News Network
-  url: https://edition.cnn.com/2026/11/26/europe/russias-europe-ukraine-iiss-report-intl-hnk-ml
-  good: false
-  trending: false
-  why: Sabotage attacks could directly threaten public safety and critical infrastructure across Europe.
-  cat: CONFLICT
-  visual:
-    type: map
-    country: Russia
-    place: Europe
-    lat: 54.526
-    lon: 15.2551
-    span: 25
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Industrial-cooling-and-pipeline-facility.png/1280px-Industrial-cooling-and-pipeline-facility.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Coolingtowerr · CC0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Industrial-cooling-and-pipeline-facility.png
-    query: industrial pipeline
-- title: Spain's Pablo Hernandez de Cos set to lead the European Central Bank
-  source: The Globe and Mail
-  url: https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/
-  good: false
-  trending: true
-  why: The ECB president sets monetary policy affecting interest rates and mortgages for citizens.
-  cat: ECONOMY
-  visual:
-    type: map
-    country: Spain
-    place: Madrid
-    lat: 40.4168
-    lon: -3.7038
-    span: 12
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg/1280px-Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: DXR · CC BY-SA 4.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg
-    query: European Central Bank building
-  chart_check:
-    result: 'not used: 0 isn''t in the article'
-- title: Dutch gas network operator proposes creating a strategic reserve
-  source: OilPrice
-  url: https://oilprice.com/Latest-Energy-News/World-News/Dutch-Gas-Network-Operator-Proposes-Creation-of-Strategic-Reserve.html
-  good: false
-  trending: false
-  why: ''
-  cat: ENERGY
-  visual:
-    type: map
-    country: Netherlands
-    place: Netherlands
-    lat: 52.1326
-    lon: 5.2913
-    span: 12
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Gasoducto_junto_a_la_B-145%2C_Chile%2C_2016-02-09%2C_DD_32.JPG/1280px-Gasoducto_junto_a_la_B-145%2C_Chile%2C_2016-02-09%2C_DD_32.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Diego Delso · CC BY-SA 4.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Gasoducto_junto_a_la_B-145,_Chile,_2016-02-09,_DD_32.JPG
-    query: natural gas pipeline
-- title: Dutch groups ask court to halt Meta smart glasses sales over privacy
-  source: CNBC TV18
-  url: https://www.cnbctv18.com/technology/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales-over-privacy-concerns-20042262.htm
+- title: Europe's top tech firm SAP is cutting 10,000 jobs to prepare for the future.
+  source: Times of India
+  url: https://timesofindia.indiatimes.com/technology/tech-news/europes-biggest-technology-company-sap-is-planning-to-cut-10000-jobs-as-it-prepares-for-/articleshow/136207404.cms
   good: false
   trending: false
   why: ''
   cat: TECH
   visual:
+    type: icon
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_03.jpg/1280px-Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Holly Higgins · CC BY 2.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_03.jpg
+    query: corporate office building
+- title: Zelenskyy warns of a major Russian attack as Trump urges Putin to pull back.
+  source: Al Jazeera
+  url: https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back
+  good: false
+  trending: false
+  why: It threatens regional stability and directly impacts global security.
+  cat: CONFLICT
+  visual:
+    type: icon
+- title: A NATO intern suspected of spying stays in a Belgian jail pending an appeal.
+  source: The News International
+  url: https://www.thenews.com.pk/latest/1425288-nato-intern-suspected-of-spying-remains-in-belgian-jail-pending-appeal-as-investigation-continues
+  good: false
+  trending: false
+  why: ''
+  cat: JUSTICE
+  visual:
+    type: map
+    country: Belgium
+    place: Belgium
+    lat: 50.8503
+    lon: 4.3517
+    span: 25
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/CourthousePostOfficeTampa01.jpg/1280px-CourthousePostOfficeTampa01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Ebyabe · CC BY 2.5 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:CourthousePostOfficeTampa01.jpg
+    query: courthouse building
+- title: Spain's economy is booming, but real wages are still below 2009 levels.
+  source: Euronews
+  url: https://www.euronews.com/2026/11/25/spains-economy-is-booming-why-are-real-wages-still-below-their-2009-peak
+  good: false
+  trending: false
+  why: It shows strong growth does not automatically raise workers' living standards.
+  cat: ECONOMY
+  visual:
     type: chart
-    chart: waffle
-    unit: '%'
-    prefix: ''
+    chart: versus
+    unit: €
+    prefix: €
     decimals: 0
-    source: Meta
+    source: OECD, European Commission
     hedge: false
-    title_en: Global smart glasses market share
-    labels_en:
-    - of the global market
-    values:
-    - 80
+    title_en: Spain average real wages vs 2009
+    so_what_en: Real wages still below 2009 peak
+    items:
+    - label_en: Average annual wage
+      from: 35533
+      to: 35121
+    periods:
+    - '2009'
+    - '2025'
     fallback:
       type: map
-      country: Netherlands
-      place: Netherlands
-      lat: 52.1326
-      lon: 5.2913
-      span: 12
+      country: Spain
+      place: Spain
+      lat: 40.4637
+      lon: -3.7492
+      span: 25
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/COP30_-_Smart_Glasses_01.jpg/1280px-COP30_-_Smart_Glasses_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Xuthoria · CC BY-SA 4.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:COP30_-_Smart_Glasses_01.jpg
-    query: smart glasses
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Financial_District%2C_Hyderabad_-_Wide_panoramic_skyline_view_from_Nanakramguda_to_Gachibowli.jpg/1280px-Financial_District%2C_Hyderabad_-_Wide_panoramic_skyline_view_from_Nanakramguda_to_Gachibowli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: iMahesh · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Financial_District,_Hyderabad_-_Wide_panoramic_skyline_view_from_Nanakramguda_to_Gachibowli.jpg
+    query: financial district skyline
   chart_check:
     result: ok
-    template: waffle
+    template: versus
+- title: Spain's first general strike in 14 years highlights deep political and social clashes.
+  source: The Atlanta Journal-Constitution
+  url: https://www.ajc.com/news/2026/11/spains-first-general-strike-in-14-years-brings-clashing-social-and-political-desires-to-the-fore/
+  good: false
+  trending: false
+  why: ''
+  cat: SOCIETY
+  visual:
+    type: map
+    country: Spain
+    place: Spain
+    lat: 40.4637
+    lon: -3.7492
+    span: 25
