@@ -1,98 +1,121 @@
-date: 2026-11-20
+date: 2026-11-27
 day: Friday
 news:
-- title: Rencana Inggris Atur Ulang Hubungan UE Hadapi Hambatan Terkait Kendaraan Listrik China
-  source: The Japan Times
-  url: https://www.japantimes.co.jp/business/2026/11/20/uk-eu-china-ev/
+- title: Raphaël Glucksmann Sebut Pemilu Prancis Tentukan Takdir Eropa
+  source: Euronews
+  url: https://www.euronews.com/2026/11/26/presidential-candidate-raphael-glucksmann-frances-vote-will-shape-europes-destiny
   good: false
   trending: false
   why: ''
-  cat: BUSINESS
-  visual:
-    type: map
-    country: United Kingdom
-    place: London
-    lat: 51.5074
-    lon: -0.1278
-    span: 12
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Car2Go_Charging_Station_Stuttgart_2013_01.jpg/1280px-Car2Go_Charging_Station_Stuttgart_2013_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Julian Herzog ( Website ) · CC BY 4.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Car2Go_Charging_Station_Stuttgart_2013_01.jpg
-    query: electric vehicle charging
-- title: Eropa Berharap Segera Bergabung dalam Pembicaraan Damai Baru Ukraina, Menurut Pemimpin Jerman Merz
-  source: Breitbart News Network
-  url: https://www.breitbart.com/news/europe-expects-to-join-new-ukraine-peace-talks-soon-says-merz/
-  good: false
-  trending: false
-  why: ''
-  cat: CONFLICT
-  visual:
-    type: map
-    country: Ukraine
-    place: Kyiv
-    lat: 50.4501
-    lon: 30.5234
-    span: 25
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Diliff · CC BY-SA 3.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg
-    query: parliament building europe
-- title: Donald Trump Tuntut Eropa Hentikan Pendanaan Ukraina dalam Serangan Keras terhadap Sekutu NATO
-  source: GB News
-  url: https://www.gbnews.com/news/world/donald-trump-europe-ukraine-blistering-tirade-nato-allies-putin
-  good: false
-  trending: true
-  why: Biaya energi dan pertahanan yang lebih tinggi berdampak langsung pada anggaran rumah tangga.
   cat: POLITICS
   visual:
     type: map
-    country: United States of America
-    place: Washington
-    lat: 38.8951
-    lon: -77.0364
+    country: France
+    place: Prancis
+    lat: 46.603354
+    lon: 1.888334
     span: 25
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/NATO%2C_USACE_officials_break_ground_on_new_headquarters_building_%285225286837%29.jpg/1280px-NATO%2C_USACE_officials_break_ground_on_new_headquarters_building_%285225286837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: U.S. Army Corps of Engineers Europe District from  · Public domain · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:NATO,_USACE_officials_break_ground_on_new_headquarters_building_(5225286837).jpg
-    query: nato headquarters building
-- title: Pemutusan Hubungan Kerja Commerzbank Dimulai dari Petinggi, dan UniCredit Sebut HVB Bisa Membantu
-  source: MarketScreener
-  url: https://www.marketscreener.com/news/commerzbank-job-cuts-will-start-from-the-top-unicredit-ceo-says-ce785ed2dc81f02d
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/RF_emblem_with_French_flags%2C_Palais_des_Ducs%2C_Dijon%2C_2026.jpg/1280px-RF_emblem_with_French_flags%2C_Palais_des_Ducs%2C_Dijon%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: DimiTalen · CC0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:RF_emblem_with_French_flags,_Palais_des_Ducs,_Dijon,_2026.jpg
+    query: French flag
+  chart_check:
+    result: 'not used: bars need 2–8 values (got 0)'
+- title: Think Tank Peringatkan Sabotase Didukung Rusia di Eropa Berisiko Picu Korban Jiwa Massal
+  source: Cable News Network
+  url: https://edition.cnn.com/2026/11/26/europe/russias-europe-ukraine-iiss-report-intl-hnk-ml
   good: false
   trending: false
-  why: ''
-  cat: BUSINESS
+  why: Serangan sabotase dapat secara langsung mengancam keselamatan publik dan infrastruktur penting di seluruh Eropa.
+  cat: CONFLICT
   visual:
     type: map
-    country: Germany
-    place: Frankfurt
-    lat: 50.1109
-    lon: 8.6821
-    span: 3
-  photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bank_Al_Maghrib_Building.jpg/1280px-Bank_Al_Maghrib_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: Rachidourkia · CC BY-SA 4.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Bank_Al_Maghrib_Building.jpg
-    query: modern bank building
-- title: Pengelolaan Padang Rumput Baru dan Habitat Terhubung Bantu Lindungi Lebah Liar di Eropa
-  source: Phys.org
-  url: https://phys.org/news/2026-11-wild-bees-europe-calcareous-grassland.html
-  good: true
-  trending: false
-  why: Kehilangan keanekaragaman hayati secara langsung mengancam produksi pangan dan penyerbukan tanaman.
-  cat: GOOD NEWS
-  visual:
-    type: map
-    country: France
+    country: Russia
     place: Eropa
     lat: 54.526
     lon: 15.2551
     span: 25
   photo:
-    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Wildflower_meadow_-_geograph.org.uk_-_8330156.jpg/1280px-Wildflower_meadow_-_geograph.org.uk_-_8330156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-    credit: T Eyre · CC BY-SA 2.0 · Wikimedia Commons
-    page: https://commons.wikimedia.org/wiki/File:Wildflower_meadow_-_geograph.org.uk_-_8330156.jpg
-    query: wildflower meadow field
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Industrial-cooling-and-pipeline-facility.png/1280px-Industrial-cooling-and-pipeline-facility.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Coolingtowerr · CC0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Industrial-cooling-and-pipeline-facility.png
+    query: industrial pipeline
+- title: Pablo Hernandez de Cos dari Spanyol Siap Pimpin Bank Sentral Eropa
+  source: The Globe and Mail
+  url: https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/
+  good: false
+  trending: true
+  why: Presiden ECB menetapkan kebijakan moneter yang memengaruhi suku bunga dan hipotek bagi warga negara.
+  cat: ECONOMY
+  visual:
+    type: map
+    country: Spain
+    place: Madrid
+    lat: 40.4168
+    lon: -3.7038
+    span: 12
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg/1280px-Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: DXR · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg
+    query: European Central Bank building
+  chart_check:
+    result: 'not used: 0 isn''t in the article'
+- title: Operator Jaringan Gas Belanda Usulkan Pembentukan Cadangan Strategis
+  source: OilPrice
+  url: https://oilprice.com/Latest-Energy-News/World-News/Dutch-Gas-Network-Operator-Proposes-Creation-of-Strategic-Reserve.html
+  good: false
+  trending: false
+  why: ''
+  cat: ENERGY
+  visual:
+    type: map
+    country: Netherlands
+    place: Belanda
+    lat: 52.1326
+    lon: 5.2913
+    span: 12
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Gasoducto_junto_a_la_B-145%2C_Chile%2C_2016-02-09%2C_DD_32.JPG/1280px-Gasoducto_junto_a_la_B-145%2C_Chile%2C_2016-02-09%2C_DD_32.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Diego Delso · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:Gasoducto_junto_a_la_B-145,_Chile,_2016-02-09,_DD_32.JPG
+    query: natural gas pipeline
+- title: Kelompok Belanda Minta Pengadilan Hentikan Penjualan Kacamata Pintar Meta Terkait Privasi
+  source: CNBC TV18
+  url: https://www.cnbctv18.com/technology/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales-over-privacy-concerns-20042262.htm
+  good: false
+  trending: false
+  why: ''
+  cat: TECH
+  visual:
+    type: chart
+    chart: waffle
+    unit: '%'
+    prefix: ''
+    decimals: 0
+    source: Meta
+    hedge: false
+    title_en: Global smart glasses market share
+    labels_en:
+    - of the global market
+    values:
+    - 80
+    title_id: ' Pangsa pasar kacamata pintar global'
+    labels_id:
+    - dari pasar global
+    fallback:
+      type: map
+      country: Netherlands
+      place: Belanda
+      lat: 52.1326
+      lon: 5.2913
+      span: 12
+  photo:
+    url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/COP30_-_Smart_Glasses_01.jpg/1280px-COP30_-_Smart_Glasses_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    credit: Xuthoria · CC BY-SA 4.0 · Wikimedia Commons
+    page: https://commons.wikimedia.org/wiki/File:COP30_-_Smart_Glasses_01.jpg
+    query: smart glasses
+  chart_check:
+    result: ok
+    template: waffle
